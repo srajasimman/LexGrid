@@ -1,0 +1,29 @@
+---
+act: "Bharatiya Nyaya Sanhita"
+act_code: "bns"
+act_year: "2023"
+chapter: "18"
+chapter_title: "Of Offences Relating To Documents And To Property Marks"
+section: "337"
+section_title: "Forgery of record of Court or of public register, etc."
+source_url: "https://devgan.in/bns/chapter_18.php"
+---
+
+# Section 337 — Forgery of record of Court or of public register, etc.
+
+**Act:** Bharatiya Nyaya Sanhita, 2023  
+**Chapter:** 18 — Of Offences Relating To Documents And To Property Marks
+
+---
+
+Whoever forges a document or an electronic record, purporting to be a record or proceeding of or in a Court or an identity document issued by Government including voter identity card or Aadhaar Card, or a register of birth, marriage or burial, or a register kept by a public servant as such, or a certificate or document purporting to be made by a public servant in his official capacity, or an authority to institute or defend a suit, or to take any proceedings therein, or to confess judgment, or a power of attorney, shall be punished with imprisonment of either description for a term which may extend to seven years, and shall also be liable to fine. 
+ Explanation: For the purposes of this section, “register” includes any list, data or record of any entries maintained in the electronic form as defined in clause (r ) of sub-section (1) of section 2 of the Information Technology Act, 2000. 
+ BNSS Classification 
+ Imprisonment for 7 years, or fine. 
+ Non-cognizable 
+ Non-bailable 
+ Triable by Magistrate of the first class.
+
+---
+
+*Source: [https://devgan.in/bns/chapter_18.php](https://devgan.in/bns/chapter_18.php)*

@@ -1,0 +1,25 @@
+---
+act: "Code of Criminal Procedure"
+act_code: "crpc"
+act_year: "1973"
+chapter: "10"
+chapter_title: "Chapter: 10 – Maintenance Of Public Order And Tranquillity"
+section: "130"
+section_title: "Use of armed forces to disperse assembly"
+source_url: "https://devgan.in/crpc/chapter_10.php"
+---
+
+# Section 130 — Use of armed forces to disperse assembly
+
+**Act:** Code of Criminal Procedure, 1973  
+**Chapter:** 10 — Chapter: 10 – Maintenance Of Public Order And Tranquillity
+
+---
+
+If any such assembly cannot be otherwise dispersed, and if it is necessary for the public security that it should be dispersed, the Executive Magistrate of the highest rank who is present may cause it to be dispersed by the armed forces. 
+ Such Magistrate may require any officer in command of any group of persons belonging to the armed forces to disperse the assembly with the help of the armed forces under his command, and to arrest and confine such persons forming part of it as the Magistrate may direct, or as it may be necessary to arrest and confine in order to disperse the assembly or to have them punished according to law. 
+ Every such officer of the armed forces shall obey such requisition in such manner as he thinks fit, but in so doing he shall use as little force, and do as little injury to person and property, as may be consistent with dispersing the assembly and arresting and detaining such persons.
+
+---
+
+*Source: [https://devgan.in/crpc/chapter_10.php](https://devgan.in/crpc/chapter_10.php)*

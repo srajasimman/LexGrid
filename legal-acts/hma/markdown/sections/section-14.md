@@ -1,0 +1,24 @@
+---
+act: "Hindu Marriage Act"
+act_code: "hma"
+act_year: "1955"
+chapter: "04"
+chapter_title: "Nullity of Marriage and Divorce"
+section: "14"
+section_title: "No petition for divorce to be presented within one year of marriage"
+source_url: "https://devgan.in/hma/chapter_04.php"
+---
+
+# Section 14 — No petition for divorce to be presented within one year of marriage
+
+**Act:** Hindu Marriage Act, 1955  
+**Chapter:** 04 — Nullity of Marriage and Divorce
+
+---
+
+Notwithstanding anything contained in this Act, it shall not be competent for any court to entertain any petition for dissolution of a marriage by a decree of divorce, unless at the date of the presentation of the petition one years has elapsed since the date of the marriage: Provided that the court may, upon application made to it in accordance with such rules as may be made by the High Court in that behalf, allow a petition to be presented before one year has elapsed since the date of the marriage on the ground that the case is one of exceptional hardship to the petitioner or of exceptional depravity on the part of the respondent, but if it appears to the court at the hearing of the petition that the petitioner obtained leave to present the petition by any misrepresentation or concealment of the nature of the case, the court may, if it pronounces a decree, do so subject to the condition that the decree shall not have effect until after the expiry of one year from the date of the marriage or may dismiss the petition without prejudice to any petition which may be brought after expiration of the said one year upon the same or substantially the same facts as those alleged in support of the petition so dismissed. 
+ In disposing of any application under this section for leave to present a petition for divorce before the expiration of one year from the date of the marriage, the court shall have regard to the interests of any children of the marriage and to the question whether there is a reasonable probability of a reconciliation between the parties before the expiration of the said one year.
+
+---
+
+*Source: [https://devgan.in/hma/chapter_04.php](https://devgan.in/hma/chapter_04.php)*

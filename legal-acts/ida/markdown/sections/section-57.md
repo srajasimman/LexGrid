@@ -1,0 +1,24 @@
+---
+act: "Indian Divorce Act"
+act_code: "ida"
+act_year: "1869"
+chapter: "13"
+chapter_title: "Re-Marriage"
+section: "57"
+section_title: "Liberty to parties to marry again"
+source_url: "https://devgan.in/ida/chapter_13.php"
+---
+
+# Section 57 — Liberty to parties to marry again
+
+**Act:** Indian Divorce Act, 1869  
+**Chapter:** 13 — Re-Marriage
+
+---
+
+When six months after the date of an order of a High Court confirming the decree for a dissolution of marriage made by a District Judge have expired, or when six months after the date of’ any decree of a high Court dissolving a marriage have expired, and no appeal has been presented against such decree to the High Court in its appellate jurisdiction, or when any such appeal has been dismissed, or when in the result of any such appeal any marriage is declared to be dissolved, but not sooner, it shall be lawful for the respective parties to the marriage to marry again, as if the prior marriage had been dissolved by death: 
+ Provided that no appeal to the Supreme Court has been presented against any such order or decree. When such appeal has been dismissed, or when in the result thereof the marriage is declared to be dissolved, but not sooner, it shall be lawful for the respective parties to the marriage to marry again as if the prior marriage had been dissolved by death.
+
+---
+
+*Source: [https://devgan.in/ida/chapter_13.php](https://devgan.in/ida/chapter_13.php)*

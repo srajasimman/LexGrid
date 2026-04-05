@@ -1,0 +1,57 @@
+# Dependencies
+node_modules/
+.npm
+.yarn
+
+# Build artifacts
+.next/
+dist/
+build/
+*.egg-info/
+*.egg
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.pytest_cache/
+.mypy_cache/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Environment
+.env
+.env.local
+*.key
+*.secret
+
+# Logs
+*.log
+logs/
+
+# Dev artifacts
+.tmp/
+.ruff_cache/
+.todos/
+prompt.md
+eval_report.json
+
+# Git
+.git/
+.gitignore
+
+# Documentation (optional - can include if desired)
+docs/
+README.md
+
+# License (keep if needed)
+LICENSE
+CONTRIBUTING.md

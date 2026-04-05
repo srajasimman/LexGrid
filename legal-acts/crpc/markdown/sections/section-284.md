@@ -1,0 +1,26 @@
+---
+act: "Code of Criminal Procedure"
+act_code: "crpc"
+act_year: "1973"
+chapter: "23"
+chapter_title: "Evidence In Inquiries And Trials"
+section: "284"
+section_title: "When attendance of witness may be dispensed with and commission issued"
+source_url: "https://devgan.in/crpc/chapter_23.php"
+---
+
+# Section 284 — When attendance of witness may be dispensed with and commission issued
+
+**Act:** Code of Criminal Procedure, 1973  
+**Chapter:** 23 — Evidence In Inquiries And Trials
+
+---
+
+Whenever, in the course of any inquiry, trial or other proceeding under this Code, it appears to a Court of Magistrate that the examination of a witness is necessary for the ends of justice, and that the attendance of such witness cannot be procured without an amount of delay, expense or inconvenience which, under the circumstances of the case, would be unreasonable, the Court or Magistrate may dispense with such attendance and may issue a commission for the examination of the witness in accordance with the provisions of this Chapter: 
+ 
+ Provided that where the examination of the President or the Vice-President of India or the Governor of a State or the Administrator of a Union Territory as a witness is necessary for the ends of justice, a commission shall be issued for the examination of such a witness. 
+ The Court may, when issuing a commission for the examination of a witness for the prosecution direct that such amount as the Court considers reasonable to meet the expenses of the accused including the pleader’s fees, be paid by the prosecution.
+
+---
+
+*Source: [https://devgan.in/crpc/chapter_23.php](https://devgan.in/crpc/chapter_23.php)*

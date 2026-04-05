@@ -1,0 +1,29 @@
+---
+act: "Bharatiya Nyaya Sanhita"
+act_code: "bns"
+act_year: "2023"
+chapter: "14"
+chapter_title: "Of False Evidence And Offences Against Public Justice"
+section: "249"
+section_title: "Harbouring offender."
+source_url: "https://devgan.in/bns/chapter_14.php"
+---
+
+# Section 249 — Harbouring offender.
+
+**Act:** Bharatiya Nyaya Sanhita, 2023  
+**Chapter:** 14 — Of False Evidence And Offences Against Public Justice
+
+---
+
+Whenever an offence has been committed, whoever harbours or conceals a person whom he knows or has reason to believe to be the offender, with the intention of screening him from legal punishment shall 
+ if the offence is punishable with death, be punished with imprisonment of either description for a term which may extend to five years, and shall also be liable to fine; 
+ if the offence is punishable with imprisonment for life, or with imprisonment which may extend to ten years, be punished with imprisonment of either description for a term which may extend to three years, and shall also be liable to fine; 
+ if the offence is punishable with imprisonment which may extend to one year, and not to ten years, be punished with imprisonment of the description provided for the offence for a term which may extend to one-fourth part of the longest term of imprisonment provided for the offence, or with fine, or with both. 
+ Explanation: “Offence” in this section includes any act committed at any place out of India, which, if committed in India, would be punishable under any of the following sections, namely 97 , 99 , 172 , 173 , 174 , 175 , 301 , 304 , 305 , 306 , 320 , 325 and 326 and every such act shall, for the purposes of this section, be deemed to be punishable as if the accused person had been guilty of it in India. 
+ Exception: This section shall not extend to any case in which the harbour or concealment is by the spouse of the offender. 
+ Illustration: A, knowing that B has committed dacoity, knowingly conceals B in order to screen him from legal punishment. Here, as B is liable to imprisonment for life, A is liable to imprisonment of either description for a term not exceeding three years, and is also liable to fine.
+
+---
+
+*Source: [https://devgan.in/bns/chapter_14.php](https://devgan.in/bns/chapter_14.php)*

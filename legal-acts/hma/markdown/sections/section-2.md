@@ -1,0 +1,32 @@
+---
+act: "Hindu Marriage Act"
+act_code: "hma"
+act_year: "1955"
+chapter: "01"
+chapter_title: "Preamble"
+section: "2"
+section_title: "Application of Act"
+source_url: "https://devgan.in/hma/chapter_01.php"
+---
+
+# Section 2 — Application of Act
+
+**Act:** Hindu Marriage Act, 1955  
+**Chapter:** 01 — Preamble
+
+---
+
+This Act applies- 
+ to any person who is a Hindu by religion in any of its forms or developments, including a Virashaiva, a Lingayat or a follower of the Brahmo, Prarthana or Arya Samaj 
+ to any person who is a Buddhist, Jaina or Sikh by religion, and 
+ to any other person domiciled in the territories to which this Act extends who is not a Muslim, Christian, Parsi or Jew by religion, unless it is proved that any such person would not have been governed by the Hindu law or by any custom or usage as part of that law in respect of any of the matters dealt with herein if this Act had not been passed. 
+ Notwithstanding anything contained in sub-section (1), nothing contained in this Act shall apply to the members of any Scheduled tribe within the meaning of clause (25) of article 366 of the Constitution unless the Central Government, by notification in the Official Gazette, otherwise directs. 
+ The expression Hindu in any portion of this Act shall be construed as if it included a person who, though not a Hindu by religion, is, nevertheless, a person to whom this Act applies by virtue of the provisions contained in this section. Explanations 
+ The following persons are Hindus, Buddhists, Jainas or Sikhs by religion, as the case may be: 
+ any child, legitimate or illegitimate, both of whose parents are Hindus, Buddhists, Jainas or Sikhs by religion; 
+ any child, legitimate or illegitimate, one of whose parents is a Hindu, Buddhist, Jaina or Sikh by religion and who is brought up as a member of the tribe, community, group or family to which such parent belongs or belonged; and 
+ any person who is a convert or re-convert to the Hindu, Buddhist, Jaina or Sikh religion.
+
+---
+
+*Source: [https://devgan.in/hma/chapter_01.php](https://devgan.in/hma/chapter_01.php)*

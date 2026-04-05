@@ -1,0 +1,24 @@
+---
+act: "Motor Vehicles Act"
+act_code: "mva"
+act_year: "1988"
+chapter: "06"
+chapter_title: "Special Provisions Relating to State Transport Undertakings"
+section: "99"
+section_title: "Preparation and publication of proposal regarding road transport service of a State transport undertaking"
+source_url: "https://devgan.in/mva/chapter_06.php"
+---
+
+# Section 99 — Preparation and publication of proposal regarding road transport service of a State transport undertaking
+
+**Act:** Motor Vehicles Act, 1988  
+**Chapter:** 06 — Special Provisions Relating to State Transport Undertakings
+
+---
+
+Where any State Government is of opinion that for the purpose of providing an efficient, adequate, economical and properly co-ordinated road transport service, it is necessary in the public interest that road transport services in general or any particular class of such service in relation to any area or route or portion thereof should be run and operated by the State transport undertaking, whether to the exclusion, complete or partial, of other persons or otherwise, the State Government may formulate a proposal regarding a scheme giving particulars of the nature of the services proposed to be rendered, the area or route proposed to be covered and other relevant particulars respecting thereto and shall publish such proposal in the Official Gazette of the State formulating such proposal and in not less than one newspaper in the regional language circulating in the area or route proposed to be covered by such scheme and also in such other manner as the State Government formulating such proposal deem fit. 
+ Notwithstanding anything contained in sub-section (1), when a proposal is published under that sub-section, then from the date of publication of such proposal, no permit shall be granted to any person, except a temporary permit during the pendency of the proposal and such temporary permit shall be valid only for a period of one year from the date of its issue or till the date of final publication of the scheme under section 100, whichever is earlier.
+
+---
+
+*Source: [https://devgan.in/mva/chapter_06.php](https://devgan.in/mva/chapter_06.php)*

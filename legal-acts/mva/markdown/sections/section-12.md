@@ -1,0 +1,42 @@
+---
+act: "Motor Vehicles Act"
+act_code: "mva"
+act_year: "1988"
+chapter: "02"
+chapter_title: "Licensing of Drivers of Motor Vehicles"
+section: "12"
+section_title: "Licensing and regulation of schools or establishments for imparting instruction in driving of motor vehicles"
+source_url: "https://devgan.in/mva/chapter_02.php"
+---
+
+# Section 12 — Licensing and regulation of schools or establishments for imparting instruction in driving of motor vehicles
+
+**Act:** Motor Vehicles Act, 1988  
+**Chapter:** 02 — Licensing of Drivers of Motor Vehicles
+
+---
+
+The Central Government may make rules for the purpose of licensing and regulating, by the State Governments, schools or establishments (by whatever name called) for imparting instruction in driving of motor vehicles and matters connected therewith. 
+ In particular, and without prejudice to the generality of the foregoing power, such rules may provide for all or any of the following matters, namely— 
+ licensing of such schools or establishments including grant, renewal and revocation of such licenses; 
+ supervision of such schools or establishments; 
+ the form of application and the form of license and the particulars to be contained therein; 
+ fee to be paid with the application for such licenses; 
+ conditions subject to which such licenses may be granted; 
+ appeals against the orders of refusal to grant or renew such licenses and appeals against the orders revoking such licenses; 
+ conditions subject to which a person may establish and maintain any such school or establishment for imparting instruction in driving of motor vehicles; 
+ nature, syllabus and duration of course or courses for efficient instruction in driving any motor vehicle; 
+ apparatus and equipments (including motor vehicles fitted with dual control) required for the purpose of imparting such instruction; 
+ suitability of the premises at which such schools or establishments may be established or maintained and facilities to be provided therein; 
+ qualifications, both educational and professional (including experience), which a person imparting instruction in driving a motor vehicle shall possess; 
+ inspection of such schools and establishments (including the services rendered by them and the apparatus, equipments and motor vehicles maintained by them for imparting such instruction); 
+ maintenance of records by such schools or establishments; 
+ financial stability of such schools or establishments; 
+ the driving certificates, if any, to be issued by such schools or establishments and the form in which such driving certificates shall be issued and the requirements to be complied with for the purposes of issuing such certificates; 
+ such other matters as may be necessary to carry out the purposes of this section. 
+ Where the Central Government is satisfied that it is necessary or expedient so to do, it may, by rules made in this behalf, exempt generally, either absolutely or subject to such conditions as may be specified in the rules, any class of schools or establishments imparting instruction in driving of motor vehicles or matters connected therewith from the provisions of this section. 
+ A school or establishment imparting instruction in driving of motor vehicles or matters connected therewith immediately before the commencement of this Act, whether under a license or not, may continue to impart such instruction without a license issued under this Act for a period of one month from such commencement, and if it has made an application for such license under this Act within the said period of one month and such application is in the prescribed form, contains the prescribed particulars and is accompanied by the prescribed fee, till the disposal of such application by the licensing authority.
+
+---
+
+*Source: [https://devgan.in/mva/chapter_02.php](https://devgan.in/mva/chapter_02.php)*

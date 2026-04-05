@@ -1,0 +1,14 @@
+{
+  "section_number": "73A",
+  "section_title": "Proof as to verification of digital signature",
+  "file_id": "section-73a",
+  "chapter_number": "05",
+  "chapter_title": "Of Documentary Evidence",
+  "act_code": "iea",
+  "act_name": "Indian Evidence Act",
+  "act_year": "1872",
+  "text": "In order to ascertain whether a digital signature is that of the person by whom it purports to have been affixed, the Court may direct— \n that person or the Controller or the Certifying Authority to produce the Digital Signature Certificate; \n any other person to apply the public key listed in the Digital Signature Certificate and verify the digital signature purported to have been affixed by that person. \n Explanations \n For the purposes of this section, Controller means the Controller appointed under sub-section (1) of section 17 of the Information Technology Act, 2000. Sections 74 to 78 – Public Documents",
+  "explanations": [],
+  "amendments": [],
+  "source_url": "https://devgan.in/iea/chapter_05.php"
+}

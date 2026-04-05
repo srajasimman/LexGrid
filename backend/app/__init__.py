@@ -1,0 +1,1 @@
+"""LexGrid application package."""

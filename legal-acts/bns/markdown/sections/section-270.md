@@ -1,0 +1,23 @@
+---
+act: "Bharatiya Nyaya Sanhita"
+act_code: "bns"
+act_year: "2023"
+chapter: "15"
+chapter_title: "Of Offences Affecting The Public Health, Safety, Convenience, Decency And Morals"
+section: "270"
+section_title: "Public nuisance."
+source_url: "https://devgan.in/bns/chapter_15.php"
+---
+
+# Section 270 — Public nuisance.
+
+**Act:** Bharatiya Nyaya Sanhita, 2023  
+**Chapter:** 15 — Of Offences Affecting The Public Health, Safety, Convenience, Decency And Morals
+
+---
+
+A person is guilty of a public nuisance who does any act or is guilty of an illegal omission which causes any common injury, danger or annoyance to the public or to the people in general who dwell or occupy property in the vicinity, or which must necessarily cause injury, obstruction, danger or annoyance to persons who may have occasion to use any public right but a common nuisance is not excused on the ground that it causes some convenience or advantage.
+
+---
+
+*Source: [https://devgan.in/bns/chapter_15.php](https://devgan.in/bns/chapter_15.php)*

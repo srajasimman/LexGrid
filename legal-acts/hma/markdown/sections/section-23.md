@@ -1,0 +1,32 @@
+---
+act: "Hindu Marriage Act"
+act_code: "hma"
+act_year: "1955"
+chapter: "05"
+chapter_title: "Jurisdiction and Procedure"
+section: "23"
+section_title: "Decree in proceedings"
+source_url: "https://devgan.in/hma/chapter_05.php"
+---
+
+# Section 23 — Decree in proceedings
+
+**Act:** Hindu Marriage Act, 1955  
+**Chapter:** 05 — Jurisdiction and Procedure
+
+---
+
+In any proceeding under this Act, whether defended or not, if the court is satisfied that 
+ any of the grounds for granting relief exists and the petitioner except in cases where the relief is sought by him on the ground specified in sub clause (a), sub-clause (b) or sub-clause (c ) of clause (ii) of section 5 is not in any way taking advantage of his or her own wrong or disability for the purpose of such relief, and 
+ where the ground of the petition is the ground specified in clause (i) of sub-section (1) of section 13, the petitioner has not in any manner been accessory to or connived at or condoned the act or acts complained of, or where the ground of the petition is cruelty the petitioner has not in any manner condoned the cruelty, and (bb) when a divorce is sought on the ground of mutual consent, such consent has not been obtained by force, fraud or undue influence, and 
+ the petition (not being a petition presented under section 11) is not presented or prosecuted in collusion with the respondent, and 
+ there has not been any unnecessary or improper delay in instituting the proceeding, and 
+ there is no other legal ground why relief should not be granted, then, and in such a case, but not otherwise, the court shall decree such relief accordingly. 
+ Before proceeding to grant any relief under this Act, it shall be the duty of the court in the first instance, in every case where it is possible so to do consistently with the nature and circumstances of the case, to make every endeavour to bring about a reconciliation between the parties: 
+ Provided that nothing contained in this sub-section shall apply to any proceeding wherein relief is sought on any of the grounds specified in clause (ii), clause (iii), clause (iv), clause (v), clause (vi) or clause (vii) of sub-section (1) of section 13. 
+ F or the purpose of aiding the court in bringing about such reconciliation, the court may, if the parties so desire or if the court thinks it just and proper so to do, adjourn the proceedings for a reasonable period not exceeding fifteen days and refer the matter to any person named by the parties in this behalf or to any person nominated by the court if the parties fail to name any person, with directions to report to the court as to whether reconciliation can be and has been, effected and the court shall in disposing of the proceeding have due regard to the report. 
+ In every case where a marriage is dissolved by a decree of divorce, the court passing the decree shall give a copy thereof free of cost to each of the parties.
+
+---
+
+*Source: [https://devgan.in/hma/chapter_05.php](https://devgan.in/hma/chapter_05.php)*

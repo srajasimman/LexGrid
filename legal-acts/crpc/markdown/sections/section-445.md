@@ -1,0 +1,23 @@
+---
+act: "Code of Criminal Procedure"
+act_code: "crpc"
+act_year: "1973"
+chapter: "33"
+chapter_title: "Provisions As To Bail And Bonds"
+section: "445"
+section_title: "Deposit instead of recognizance"
+source_url: "https://devgan.in/crpc/chapter_33.php"
+---
+
+# Section 445 — Deposit instead of recognizance
+
+**Act:** Code of Criminal Procedure, 1973  
+**Chapter:** 33 — Provisions As To Bail And Bonds
+
+---
+
+When any person is required by any Court or officer to execute a bond with or without sureties, such Court or officer may, except in the case of a bond for good behaviour, permit him to deposit a sum of money or Government promissory notes to such amount as the Court of officer may if in lieu of executing such bond.
+
+---
+
+*Source: [https://devgan.in/crpc/chapter_33.php](https://devgan.in/crpc/chapter_33.php)*

@@ -1,0 +1,23 @@
+---
+act: "Indian Penal Code"
+act_code: "ipc"
+act_year: "1860"
+chapter: "17"
+chapter_title: "Of Offences Against Property"
+section: "460"
+section_title: "All persons jointly concerned in lurking house-trespass or house-breaking by night punishable where death or grievous hurt caused by one of them"
+source_url: "https://devgan.in/ipc/chapter_17.php"
+---
+
+# Section 460 — All persons jointly concerned in lurking house-trespass or house-breaking by night punishable where death or grievous hurt caused by one of them
+
+**Act:** Indian Penal Code, 1860  
+**Chapter:** 17 — Of Offences Against Property
+
+---
+
+If at the time of the committing of lurking house-trespass by night or house-breaking by night, any person guilty of such offence shall voluntarily cause or attempt to cause death or grievous hurt to any person, every person jointly concerned in committing such lurkking house-trespass by night or house-breaking by night, shall be punished with imprisonment for life, or with imprisonment of either description for a term which may extend to ten years, and shall also be liable to fine.
+
+---
+
+*Source: [https://devgan.in/ipc/chapter_17.php](https://devgan.in/ipc/chapter_17.php)*

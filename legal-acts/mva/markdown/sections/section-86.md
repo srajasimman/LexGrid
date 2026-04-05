@@ -1,0 +1,36 @@
+---
+act: "Motor Vehicles Act"
+act_code: "mva"
+act_year: "1988"
+chapter: "05"
+chapter_title: "Control of Transport Vehicles"
+section: "86"
+section_title: "Cancellation and suspension of permits"
+source_url: "https://devgan.in/mva/chapter_05.php"
+---
+
+# Section 86 — Cancellation and suspension of permits
+
+**Act:** Motor Vehicles Act, 1988  
+**Chapter:** 05 — Control of Transport Vehicles
+
+---
+
+The transport authority which granted a permit may cancel the permit or may suspend it for such period as it thinks fit— 
+ on the breach of any condition specified in section 84 or of any condition contained in the permit, or 
+ if the holder of the permit uses or causes or allows a vehicle to be used in any manner not authorised by the permit, or 
+ if the holder of the permit ceases to own the vehicle covered by the permit, or 
+ if the holder of the permit has obtained the permit by fraud or misrepresentation, or 
+ if the holder of the goods carriage permit, fails without reasonable cause, to use the vehicle for the purposes for which the permit was granted, or 
+ if the holder of the permit acquires the citizenship of any foreign country: 
+ Provided that no permit shall be suspended or cancelled unless an opportunity has been given to the holder of the permit to furnish his explanation. 
+ The transport authority may exercise the powers conferred on it under sub-section (1) in relation to a permit granted by any authority or person to whom power in this behalf has been delegated under sub-section (5) of section 68 as if the said permit was a permit granted by the transport authority. 
+ Where a transport authority cancels or suspends a permit, it shall give to the holder in writing its reasons for the action taken. 
+ The powers exercisable under sub-section (1) (other than the power to cancel a permit) by the transport authority which granted the permit may be exercised by any authority or person to whom such powers have been delegated under sub-section (5) of section 68. 
+ Where a permit is liable to be cancelled or suspended under clause (a) or clause (b) or clause (e) of sub-section (1) and the transport authority is of opinion that having regard to the circumstances of the case, it would not be necessary or expedient so to cancel or suspend the permit if the holder of the permit agrees to pay a certain sum of money, then, notwithstanding anything contained in sub-section (l), the transport authority may, instead of cancelling or suspending the permit, as the case may be, recover from the holder of the permit the sum of money agreed upon. 
+ The powers exercisable by the transport authority under sub-section (5) may, where an appeal has been preferred under section 89, be exercised also by the appellate authority. 
+ In relation to a permit referred to in sub-section (9) of section 88, the powers exercisable under sub-section (1) (other than the power to cancel a permit) by the transport authority which granted the permit, may be exercised by any transport authority and any authority or persons to whom power in this behalf has been delegated under sub-section (5) of section 68, as if the said permit was a permit granted by any such authority or persons.
+
+---
+
+*Source: [https://devgan.in/mva/chapter_05.php](https://devgan.in/mva/chapter_05.php)*

@@ -1,0 +1,29 @@
+---
+act: "Motor Vehicles Act"
+act_code: "mva"
+act_year: "1988"
+chapter: "04"
+chapter_title: "Registration of Motor Vehicles"
+section: "48"
+section_title: "No objection certificate"
+source_url: "https://devgan.in/mva/chapter_04.php"
+---
+
+# Section 48 — No objection certificate
+
+**Act:** Motor Vehicles Act, 1988  
+**Chapter:** 04 — Registration of Motor Vehicles
+
+---
+
+The owner of a motor vehicle when applying for the assignment of a new registration mark under sub-section (1) of section 47, or where the transfer of a motor vehicle is to be effected in a State other than the State of its registration, the transferor of such vehicle when reporting the transfer under sub-section (1) of section 50, shall make an application in such form and in such manner as may be prescribed by the Central Government to the registering authority by which the vehicle was registered for the issue of a certificate (hereafter in this section referred to as the no objection certificate), to the effect that the registering authority has no objection for assigning a new registration mark to the vehicle or, as the case may be, for entering the particulars of the transfer of ownership in the certificate of registration. 
+ The registering authority shall, on receipt of an application under sub-section (1), issue a receipt in such form as may be prescribed by the Central Government. 
+ On receipt of an application under sub-section (1), the registering authority may, after making such inquiry and requiring the applicant to comply with such directions as it deems fit and within thirty days of the receipt thereof, by order in writing, communicate to the applicant that it has granted or refused to grant the no objection certificate: 
+ Provided that a registering authority shall not refuse to grant the no objection certificate unless it has recorded in writing the reasons for doing so and a copy of the same has been communicated to the applicant. 
+ Where within a period of thirty days referred to in sub-section (3), the registering authority does not refuse to grant the no objection certificate or does not communicate the refusal to the applicant, the registering authority shall be deemed to have granted the no objection certificate. 
+ Before granting of refusing to grant the no objection certificate, the registering authority shall obtain a report in writing from the police that no case relating to the theft of the motor vehicle concerned has been reported or is pending, verify whether all the amounts due to Government including road tax in respect of that motor vehicle have been paid and take into account such other factors as may be prescribed by the Central Government. 
+ The owner of the vehicle shall also inform at the earliest, in writing, the registering authority about the theft of his vehicle together with the name of the police station where the theft report was lodged, and the registering authority shall take into account such report while disposing of any application for no objection certification, registration, transfer of ownership or issue of duplicate registration certificate.
+
+---
+
+*Source: [https://devgan.in/mva/chapter_04.php](https://devgan.in/mva/chapter_04.php)*

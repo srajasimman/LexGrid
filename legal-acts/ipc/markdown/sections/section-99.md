@@ -1,0 +1,29 @@
+---
+act: "Indian Penal Code"
+act_code: "ipc"
+act_year: "1860"
+chapter: "04"
+chapter_title: "General Exceptions"
+section: "99"
+section_title: "Acts against which there is no right of private defence"
+source_url: "https://devgan.in/ipc/chapter_04.php"
+---
+
+# Section 99 — Acts against which there is no right of private defence
+
+**Act:** Indian Penal Code, 1860  
+**Chapter:** 04 — General Exceptions
+
+---
+
+There is no right of private defence against an act which does not reasonably cause the apprehension of death or of grievous hurt, if done, or attempted to be done, by a public servant acting in good faith under colour of his office, though that act may not be strictly justifiable by law. 
+ There is no right of private defence against an act which does not reasonably cause the apprehension of death or of grievous hurt, if done, or attempted to be done, by the direction of a public servant acting in good faith under colour of his office though that direction may not be strictly justifiable by law. 
+ There is no right of private defence in cases in which there is time to have recourse to protection of the public authorities. 
+ Extent to which the right may be exercised – The right of private defence in no case extends to the inflicting of more harm than it is necessary to inflict for the purpose of defence. 
+ Explanations 
+ A person is not deprived of the right of private defence against an act done, or attempted to be done, by a public servant, as such, unless he knows or has reason to believe, that the person doing the act is such public servant. 
+ A person is not deprived of the right of private defence against an act done, or attempted to be done, by the direction of a public servant, unless he knows, or has reason to believe, that the person doing the act is acting by such direction, or unless such person states the authority under which he acts, or if he has authority in writing, unless he produces such authority, if demanded.
+
+---
+
+*Source: [https://devgan.in/ipc/chapter_04.php](https://devgan.in/ipc/chapter_04.php)*

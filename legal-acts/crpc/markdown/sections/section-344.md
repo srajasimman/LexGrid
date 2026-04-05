@@ -1,0 +1,26 @@
+---
+act: "Code of Criminal Procedure"
+act_code: "crpc"
+act_year: "1973"
+chapter: "26"
+chapter_title: "Provisions As To Offences Affecting The Administration Of Justice"
+section: "344"
+section_title: "Summary procedure for trial for giving false evidence"
+source_url: "https://devgan.in/crpc/chapter_26.php"
+---
+
+# Section 344 — Summary procedure for trial for giving false evidence
+
+**Act:** Code of Criminal Procedure, 1973  
+**Chapter:** 26 — Provisions As To Offences Affecting The Administration Of Justice
+
+---
+
+If, at the time of delivery of any judgment or final order disposing of any judicial proceeding, a Court of Session or Magistrate of the first class expresses an opinion to the effect that any witness appearing in such proceeding had knowingly or wilfully given false evidence or had fabricated false evidence with the intention that such evidence should be used in such proceeding, it or he may, if satisfied that it is necessary and expedient in the interest of justice that the witness should be tried summarily for giving or fabricating, as the case may be, false evidence, take cognizance of the offence and may, after giving the offender a reasonable opportunity of showing cause why he should not be punished for such offence, try such offender summarily and sentence him to imprisonment for a term which may extend to three months, or to fine which may extend to five hundred rupees, or with both. 
+ In every such case the Court shall follow, as nearly as may be practicable, the procedure prescribed for summary trials. 
+ Nothing in this section shall affect the power of the Court to make a complaint under section 340 for the offence, where it does not choose to proceed under this section. 
+ Where, after any action is initiated under Sub-Section (1), it is made to appear to the Court of Session or Magistrate of the first class that an appeal or an application for revision has been preferred or filed against the judgment or order in which the opinion referred to in that Sub-Section has been expressed, it or he shall stay further proceedings of the trial until the disposal of the appeal or the application for revision, as the case may be, and thereupon the further proceedings of the trial shall abide by the results of the appeal or application for revision.
+
+---
+
+*Source: [https://devgan.in/crpc/chapter_26.php](https://devgan.in/crpc/chapter_26.php)*

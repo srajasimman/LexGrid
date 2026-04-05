@@ -1,0 +1,24 @@
+---
+act: "Motor Vehicles Act"
+act_code: "mva"
+act_year: "1988"
+chapter: "02"
+chapter_title: "Licensing of Drivers of Motor Vehicles"
+section: "17"
+section_title: "Orders refusing or revoking driving licenses and appeals therefrom"
+source_url: "https://devgan.in/mva/chapter_02.php"
+---
+
+# Section 17 — Orders refusing or revoking driving licenses and appeals therefrom
+
+**Act:** Motor Vehicles Act, 1988  
+**Chapter:** 02 — Licensing of Drivers of Motor Vehicles
+
+---
+
+Where a licensing authority refuses to issue any learner’s license or to issue or renew, or revokes any driving license, or refuses to add a class or description of motor vehicle to any driving license, it shall do so by an order communicated to the applicant or the holder, as the case may be, giving the reasons in writing for such refusal or revocation. 
+ Any person aggrieved by an order made under sub-section (1) may, within thirty days of the service on him of the order, appeal to the prescribed authority which shall decide the appeal after giving such person and the authority which made the order an opportunity of being heard and the decision of the appellate authority shall be binding on the authority which made the order.
+
+---
+
+*Source: [https://devgan.in/mva/chapter_02.php](https://devgan.in/mva/chapter_02.php)*

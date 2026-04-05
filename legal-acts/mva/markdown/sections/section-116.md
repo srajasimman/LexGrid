@@ -1,0 +1,31 @@
+---
+act: "Motor Vehicles Act"
+act_code: "mva"
+act_year: "1988"
+chapter: "08"
+chapter_title: "Control of Traffic"
+section: "116"
+section_title: "Power to erect traffic signs"
+source_url: "https://devgan.in/mva/chapter_08.php"
+---
+
+# Section 116 — Power to erect traffic signs
+
+**Act:** Motor Vehicles Act, 1988  
+**Chapter:** 08 — Control of Traffic
+
+---
+
+— 
+ The State Government or any authority authorised in this behalf by the State Government may cause or permit traffic signs to be placed or erected in any public place for the purpose of bringing to public notice any speed limits fixed under sub-section (2) of section 112 or any prohibitions or restrictions imposed under section 115 or generally for the purpose of regulating motor vehicle traffic. 
+ A State Government or any authority authorised in this behalf by the State Government may, by notification in the Official Gazette or by the erection at suitable places of the appropriate traffic sign referred to in Part A of the Schedule, designate certain roads as main roads for the purposes of the driving regulations made by the Central Government. 
+ Traffic signs placed or erected under sub-section (1) for any purpose for which provision is made in the Schedule shall be of the size, colour and type and shall have the meanings set forth in the Schedule, but the State Government or any authority empowered in this behalf by the State Government may make or authorise the addition to any sign set forth in the said Schedule, of transcriptions of the words, letters or figures thereon in such script as the State Government may think fit provided that the transcriptions shall be of similar size and colour to the words, letters or figures set forth in the Schedule. 
+ Except as provided by sub-section (1), no traffic sign shall, after the commencement of this Act, be placed or erected on or near any road; but all traffic signs placed or erected prior to the commencement of this Act by any competent authority shall for the purpose of this Act by any competent authority shall for the purpose of this Act be deemed to be traffic signs placed or erected under the provisions of sub-section (1). 
+ A State Government may, by notification in the Official Gazette, empower any police officer not below the rank of a Superintendent of Police to remove or cause to be removed any sign or advertisement which is so placed in his opinion as to obscure any traffic sign from view or any sign or advertisement which in his opinion is so similar in appearance to a traffic sign as to be misleading or which in his opinion is likely to distract the attention or concentration of the driver. 
+ No person shall wilfully remove, alter, deface, or in any way tamper with, any traffic signs placed or erected under this section. 
+ If any person accidentally causes such damage to a traffic sign as renders it useless for the purpose for which it is placed or erected under this section, he shall report the circumstances of the occurrence to a police officer or at a police station as soon as possible, and in any case within twenty four hours of the occurrence. 
+ For the purpose of bringing the signs set forth in the First Schedule in conformity with any International Convention relating to motor traffic to which the Central Government is for the time being a party, the Central Government may, by notification in the Official Gazette, make any addition or alteration to any such sign and on the issue of any such notification, the First Schedule shall be deemed to be amended accordingly.
+
+---
+
+*Source: [https://devgan.in/mva/chapter_08.php](https://devgan.in/mva/chapter_08.php)*

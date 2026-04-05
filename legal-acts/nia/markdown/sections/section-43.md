@@ -1,0 +1,25 @@
+---
+act: "National Investigation Agency Act"
+act_code: "nia"
+act_year: "2008"
+chapter: "03"
+chapter_title: "Parties to Notes, Bills and Cheques"
+section: "43"
+section_title: "Negotiable instrument made, etc., without consideration."
+source_url: "https://devgan.in/nia/chapter_03.php"
+---
+
+# Section 43 — Negotiable instrument made, etc., without consideration.
+
+**Act:** National Investigation Agency Act, 2008  
+**Chapter:** 03 — Parties to Notes, Bills and Cheques
+
+---
+
+A negotiable instrument made, drawn, accepted, indorsed or transferred without consideration, or for a consideration which fails, creates no obligation of payment between the parties to the transaction. But if any such party has transferred the instrument with or without indorsement to a holder for consideration, such holder, and every subsequent holder deriving title from him, may recover the amount due on such instrument from the transferor for consideration or any prior party thereto. Exceptions 
+ No party for whose accommodation a negotiable instrument has been made, drawn, accepted or indorsed can, if he have paid the amount thereof, recover thereon such amount from any person who became a party to such instrument for his accommodation. 
+ No party to the instrument who has induced any other party to make, draw, accept, indorse or transfer the same to him for a consideration which he has failed to pay or perform in full shall recover thereon an amount exceeding the value of the consideration (if any) which he has actually paid or performed.
+
+---
+
+*Source: [https://devgan.in/nia/chapter_03.php](https://devgan.in/nia/chapter_03.php)*

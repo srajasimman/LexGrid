@@ -1,0 +1,29 @@
+---
+act: "Indian Divorce Act"
+act_code: "ida"
+act_year: "1869"
+chapter: "03"
+chapter_title: "Dissolution of Marriage"
+section: "10"
+section_title: "When husband may Petition for dissolution"
+source_url: "https://devgan.in/ida/chapter_03.php"
+---
+
+# Section 10 — When husband may Petition for dissolution
+
+**Act:** Indian Divorce Act, 1869  
+**Chapter:** 03 — Dissolution of Marriage
+
+---
+
+Any husband may present a Petition to the District Court or to the High Court, praying that his marriage may be dissolved on the ground that his wife has, since the solemnization thereof, been guilty of adultery. 
+ When wife may Petition for dissolution.- Any wife may present a Petition to the District Court or to the High Court, praying that her marriage may be dissolved on the ground that, since the solemnization thereof, her husband has exchanged his profession of Christianity for the profession of some other religion, and gone through a form of marriage with another woman; 
+ or has been guilty of incestuous adultery, 
+ or of bigamy with adultery, 
+ or of marriage with another woman with adultery, or of rape, sodomy or bestiality, 
+ or of adultery coupled with such cruelty as without adultery would have entitled her to a divorce a mensa et toro, or of adultery coupled with desertion, without reasonable excuse, for two years or upwards. 
+ Contents of Petition.- Every such Petition shall state, as distinctly as the nature of the case permits, the facts on which the claim to have such marriage dissolved is founded.
+
+---
+
+*Source: [https://devgan.in/ida/chapter_03.php](https://devgan.in/ida/chapter_03.php)*

@@ -1,0 +1,111 @@
+[
+  {
+    "chapter_number": "01",
+    "chapter_title": "Preamble",
+    "file_id": "chapter-01",
+    "act_code": "hma",
+    "act_name": "Hindu Marriage Act",
+    "act_year": "1955",
+    "source_url": "https://devgan.in/hma/chapter_01.php",
+    "section_count": 4,
+    "section_ids": [
+      "section-1",
+      "section-2",
+      "section-3",
+      "section-4"
+    ]
+  },
+  {
+    "chapter_number": "02",
+    "chapter_title": "Hindu Marriage",
+    "file_id": "chapter-02",
+    "act_code": "hma",
+    "act_name": "Hindu Marriage Act",
+    "act_year": "1955",
+    "source_url": "https://devgan.in/hma/chapter_02.php",
+    "section_count": 4,
+    "section_ids": [
+      "section-5",
+      "section-6",
+      "section-7",
+      "section-8"
+    ]
+  },
+  {
+    "chapter_number": "03",
+    "chapter_title": "Restitution of Conjugal Rights and Judicial Separation",
+    "file_id": "chapter-03",
+    "act_code": "hma",
+    "act_name": "Hindu Marriage Act",
+    "act_year": "1955",
+    "source_url": "https://devgan.in/hma/chapter_03.php",
+    "section_count": 2,
+    "section_ids": [
+      "section-9",
+      "section-10"
+    ]
+  },
+  {
+    "chapter_number": "04",
+    "chapter_title": "Nullity of Marriage and Divorce",
+    "file_id": "chapter-04",
+    "act_code": "hma",
+    "act_name": "Hindu Marriage Act",
+    "act_year": "1955",
+    "source_url": "https://devgan.in/hma/chapter_04.php",
+    "section_count": 10,
+    "section_ids": [
+      "section-11",
+      "section-12",
+      "section-13",
+      "section-13a",
+      "section-13b",
+      "section-14",
+      "section-15",
+      "section-16",
+      "section-17",
+      "section-18"
+    ]
+  },
+  {
+    "chapter_number": "05",
+    "chapter_title": "Jurisdiction and Procedure",
+    "file_id": "chapter-05",
+    "act_code": "hma",
+    "act_name": "Hindu Marriage Act",
+    "act_year": "1955",
+    "source_url": "https://devgan.in/hma/chapter_05.php",
+    "section_count": 15,
+    "section_ids": [
+      "section-19",
+      "section-20",
+      "section-21",
+      "section-21a",
+      "section-21b",
+      "section-21c",
+      "section-22",
+      "section-23",
+      "section-23a",
+      "section-24",
+      "section-25",
+      "section-26",
+      "section-27",
+      "section-28",
+      "section-28a"
+    ]
+  },
+  {
+    "chapter_number": "06",
+    "chapter_title": "Savings and Repeals",
+    "file_id": "chapter-06",
+    "act_code": "hma",
+    "act_name": "Hindu Marriage Act",
+    "act_year": "1955",
+    "source_url": "https://devgan.in/hma/chapter_06.php",
+    "section_count": 2,
+    "section_ids": [
+      "section-29",
+      "section-30"
+    ]
+  }
+]

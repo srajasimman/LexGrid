@@ -1,0 +1,23 @@
+---
+act: "Indian Penal Code"
+act_code: "ipc"
+act_year: "1860"
+chapter: "17"
+chapter_title: "Of Offences Against Property"
+section: "434"
+section_title: "Mischief by destroying or moving, etc., a land-mark fixed by public authority"
+source_url: "https://devgan.in/ipc/chapter_17.php"
+---
+
+# Section 434 — Mischief by destroying or moving, etc., a land-mark fixed by public authority
+
+**Act:** Indian Penal Code, 1860  
+**Chapter:** 17 — Of Offences Against Property
+
+---
+
+Whoever commits mischief by destroying or moving any land-mark fixed by the authority of a public servant, or by any act which renders such land-mark less useful as such, shall be punished with imprisonment of either description for a term which may extend to one year, or with fine, or with both.
+
+---
+
+*Source: [https://devgan.in/ipc/chapter_17.php](https://devgan.in/ipc/chapter_17.php)*

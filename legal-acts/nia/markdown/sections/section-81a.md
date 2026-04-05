@@ -1,0 +1,25 @@
+---
+act: "National Investigation Agency Act"
+act_code: "nia"
+act_year: "2008"
+chapter: "06"
+chapter_title: "Of Payment and Interest"
+section: "81A"
+section_title: "Application of the Act to electronic cheque and truncated cheque"
+source_url: "https://devgan.in/nia/chapter_06.php"
+---
+
+# Section 81A — Application of the Act to electronic cheque and truncated cheque
+
+**Act:** National Investigation Agency Act, 2008  
+**Chapter:** 06 — Of Payment and Interest
+
+---
+
+The provisions of this Act, for the time being in force, shall apply to, or in relation to, electronic cheques and the truncated cheques subject to such modifications and amendments as may be necessary for carrying out the purposes of the Negotiable Instruments Act, 1881 (26 of 1881) by the Central Government, in consultation with the Reserve Bank of India, by notification in the Official Gazette. 
+ Every notification made by the Central Government under sub-section (1) shall be laid, as soon as may be after it is made, before each House of Parliament, while it is in session, for a total period of thirty days which may be comprised in one session or in two or more successive sessions, and if, before the expiry of me session immediately following the session or the successive sessions aforesaid, both Houses agree in making any modification in the notification or both Houses agree that the notification should not be made, the notification shall thereafter have effect only in such modified form or be of no effect, as the case may be; so, however, that any such modification or annulment shall be without prejudice to the validity of anything previously done under that notification. Explanations 
+ For the purposes of this Act, the expressions “electronic cheque” and “truncated cheque” shall have the same meaning as assigned to them in section 6 of the Negotiable Instruments Act, 1881.
+
+---
+
+*Source: [https://devgan.in/nia/chapter_06.php](https://devgan.in/nia/chapter_06.php)*

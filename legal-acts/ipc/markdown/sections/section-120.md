@@ -1,0 +1,24 @@
+---
+act: "Indian Penal Code"
+act_code: "ipc"
+act_year: "1860"
+chapter: "05"
+chapter_title: "Abetment"
+section: "120"
+section_title: "Concealing design to commit offence punishable with imprisonment"
+source_url: "https://devgan.in/ipc/chapter_05.php"
+---
+
+# Section 120 — Concealing design to commit offence punishable with imprisonment
+
+**Act:** Indian Penal Code, 1860  
+**Chapter:** 05 — Abetment
+
+---
+
+Whoever, intending to facilitate or knowing it to be likely that he will thereby facilitate the commission of an offence punishable with imprisonment, voluntarily conceals, by any act or illegal omission, the existence of a design to commit such offence, or makes any representation which he knows to be false respecting such design, if offence be committed-if offence be not committed. 
+ If offence be committed – if offence be not committed – shall, if the offence be committed, be punished with imprisonment of the description provided for the offence, for a term which may extend to one-fourth, and, if the offence be not committed, to one-eight, of the longest term of such imprisonment, or with such fine as is provided for the offence, or with both.
+
+---
+
+*Source: [https://devgan.in/ipc/chapter_05.php](https://devgan.in/ipc/chapter_05.php)*

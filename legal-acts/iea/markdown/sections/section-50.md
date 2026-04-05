@@ -1,0 +1,28 @@
+---
+act: "Indian Evidence Act"
+act_code: "iea"
+act_year: "1872"
+chapter: "02"
+chapter_title: "Of the Relevancy of Facts"
+section: "50"
+section_title: "Opinion or relationship, when relevant"
+source_url: "https://devgan.in/iea/chapter_02.php"
+---
+
+# Section 50 — Opinion or relationship, when relevant
+
+**Act:** Indian Evidence Act, 1872  
+**Chapter:** 02 — Of the Relevancy of Facts
+
+---
+
+When the Court has to form an opinion as to the relationship of one person to another, the opinion, expressed by conduct, as to the existence of such relationship, or any person who, as a member of the family or otherwise, has special means of knowledge on the subject, is relevant fact; 
+ Provided that such opinion shall not be sufficient to prove a marriage in proceedings under the Indian Divorce Act, 1869 (4 of 1869) or in prosecutions under sections 494, 495, 497 or 498 of the Indian Penal Code (45 of 1860). 
+ Illustrations 
+ The question is, whether A and B, were married. 
+ The fact that they were usually received and treated by their friends as husband and wife, is relevant. 
+ The question is, whether A was the legitimate son of B. The fact that A was always treated as such by members of the family, is relevant.
+
+---
+
+*Source: [https://devgan.in/iea/chapter_02.php](https://devgan.in/iea/chapter_02.php)*

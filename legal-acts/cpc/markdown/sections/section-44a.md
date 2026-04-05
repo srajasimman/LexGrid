@@ -1,0 +1,27 @@
+---
+act: "Code of Civil Procedure"
+act_code: "cpc"
+act_year: "1908"
+chapter: "02"
+chapter_title: "Part II – Execution"
+section: "44A"
+section_title: "Execution of decrees passed by Courts in reciprocating territory"
+source_url: "https://devgan.in/cpc/chapter_02.php"
+---
+
+# Section 44A — Execution of decrees passed by Courts in reciprocating territory
+
+**Act:** Code of Civil Procedure, 1908  
+**Chapter:** 02 — Part II – Execution
+
+---
+
+Where a certified copy of decree of any of the superior Courts of any reciprocating territory has been filed in a District Court, the decree may be executed in India as if it had been passed by the District Court. 
+ Together with the certified copy of the decree shall be filed a certificate from such superior Court stating the extent, if any, to which the decree has been satisfied or adjusted and such certificate shall, for the purposes of proceedings under this section, be conclusive proof of the extent of such satisfaction or adjustment. 
+ The provisions of section 47 shall as from the filing of the certified copy of the decree apply to the proceedings of a District Court executing a decree under this section, and the District Court shall refuse execution of any such decree, if it is shown to the satisfaction of the Court that the decree falls within any of the exceptions specified in clauses (a) to (f) of section 13. Explanations 
+ “Reciprocating territory” means any country or territory outside India which the Central Government may, by notification in the Official Gazette, declare to be a reciprocating territory for the purposes of this section; and “superior Courts”, with reference to any such territory, means such Courts as may be specified in the said notification. 
+ “Decree” with reference to a superior Court means any decree or judgment of such Court under which a sum of money is payable, not being a sum payable in respect of taxes or other charges of a like nature or in respect to a fine or other penalty, but shall in no case include an arbitration award, even if such an award is enforceable as a decree or judgment.
+
+---
+
+*Source: [https://devgan.in/cpc/chapter_02.php](https://devgan.in/cpc/chapter_02.php)*

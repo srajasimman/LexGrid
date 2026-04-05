@@ -1,0 +1,98 @@
+---
+act: "Code of Civil Procedure"
+act_code: "cpc"
+act_year: "1908"
+chapter: "02"
+chapter_title: "Part II – Execution"
+section: "60"
+section_title: "Property liable to attachment and sale in execution of decree"
+source_url: "https://devgan.in/cpc/chapter_02.php"
+---
+
+# Section 60 — Property liable to attachment and sale in execution of decree
+
+**Act:** Code of Civil Procedure, 1908  
+**Chapter:** 02 — Part II – Execution
+
+---
+
+1. The following property is liable to attachment and sale in execution of a decree, namely, lands, houses or other buildings, goods, money, banknotes, cheques, bills of exchange, hundis, promissory notes, Government securities, bonds or other securities for money, debts, shares in corporation and, save as hereinafter mentioned, all other saleable property, movable or immovable, belonging to the judgment-debtor, or over which, or the profits of which, he has a disposing power which he may exercise for his own benefit, whether the same be held in the name of the judgment-debtor or by another person in trust for him or on his behalf; 
+ Provided that the following particulars shall not be liable to such attachment or sale, namely- 
+ the necessary wearing-apparel, cooking vessels, beds and bedding of the judgment-debtor, his wife and children, and such personal ornaments as, in accordance with religious usage, cannot be parted with by any woman; 
+ tools of artisans, and, where the judgment-debtor is an agriculturist, his implements of husbandry and such cattle and seed-grain as may, in the opinion of the court, be necessary to enable him to earn his livelihood as such, and such portion of agricultural produce or of any class of agricultural produce as may have been declared to be free from liability under the provisions of the next following section; 
+ houses and other buildings (with the materials and the sites thereof and the land immediately appurtenant thereto and necessary for their enjoyment) belonging to an agriculturist or a labourer or a domestic servant and occupied by him; 
+ books of account; 
+ a mere right to sue for damages; 
+ any right of personal service; 
+ stipends and gratuities allowed to pensioners of the government or of a local authority or of any other employer or payable out of any service pension fund notified in the Official Gazette by the Central Government or the State government in this behalf, and political pension; 
+ the wages of labourers and domestic servants, whether payable in money or in kind; 
+ salary to the extent of the first four hundred rupees and two third of the remainder in execution of any decree other than a decree for maintenance; 
+ 
+ Provided that where any part of such portion of the salary as is liable to attachment has been under attachment, whether continuously or intermittently, for a total period of twenty-four months, such portion sail be exempt from attachment until the expiry of a further period of twelve months, and, where such attachment has been made in execution of one and the same decree, shall, after the attachment has continued for a total period of twenty-four months, be finally exempt from attachment in execution of that decree. 
+ 
+ (ia) one-third of the salary in execution of any decree for maintenance; 
+ the pay and allowances of persons to whom the Air Force Act, 1950 (45 of 1950), or the Army Act, 1950 (46 of 1950), or the Navy Act (62 of 1957), applies; 
+ all compulsory deposits and other sums in or derived from and fund to which the Provident funds Act, 1925, (19 of 1925), for the time being applies in so far as they are declared by the said Act not to be liable to attachment; 
+ 
+ (ka) all deposits and other sums in or derived from any fund to which the Public Provident Fund Act, 1968 (23 of 1968) for the time being applies in so far as they are declared by the said Act as not to be liable to attachment; 
+ 
+ (kb) all moneys payable under a policy of insurance on the life of the judgment-debtor; 
+ 
+ (kc) the interest of a lessee of a residential building to which the provisions of law for the time being in force relating to control of rents and accommodation apply; 
+ any allowance forming part of the emoluments of any servant of the Government or of any servant of a railway company or local authority which the appropriate Government may by notification in the Official Gazette declare to be exempt from attachment, and any subsistence grant for allowance made to any such servant while under suspension; 
+ an expectancy of succession by survivorship or other merely contingent or possible right or interest; 
+ a right to future maintenance; 
+ any allowance declared by any Indian law to be exempt from liability to attachment or sale in execution of a decree; and 
+ where the judgment-debtor is a person liable for the payment of land-revenue; any movable property which, under any law for the time being applicable to him, is exempt from sale for the recovery of an arrears of such revenue. Explanations 
+ 
+ The moneys payable in relation to the matters mentioned in clauses (g), (h), (i), (ia), (j), (l) and ° are exempt from attachment or sale, whether before or after they are actually payable, and, in the case of salary, the attachable portion thereof is liable to attachment, whether before or after it is actually payable. 
+ In clauses (i) and (ia), “salary” means the total monthly emoluments, excluding any allowance declared exempt from attachment under the provisions of clause (i) derived by a person from his employment whether on duty or on leave. 
+ In Clause (l), “appropriate Government” means- 
+ as respect any person in the service of the Central Government, or any servant of a Railway Administration or of a cantonment authority or of the port authority of a major port, the Central Government; 
+ as respects any other servant of the Government or a servant of any other local authority skilled the State Government. 
+ For the purposes of this proviso, “wages”, includes bonus, and labourer” includes a skilled/unskilled or semi-skilled labourer. 
+ For the purposes of this proviso, the expression “agriculturist” means a person who cultivates land personally and who depends for his livelihood mainly on the income from agricultural land, whether as owner, tenant, partner or agricultural labourer. 
+ For the purposes of Explanation V, an agriculturist shall be deemed to cultivate land personally, if he cultivates land- 
+ by his own labour, or 
+ by the labour of any member of his family, or 
+ by servants or labourers on wages payable in case or in kind (not being as a share of the produce), or both. 
+ 1A. Notwithstanding anything contained in any other law for the time being in force, an agreement by which a person agrees to waive the benefit on any exemption under this section shall be void. 
+ 2. Nothing in this section shall be deemed to exempt houses and other buildings (with the materials and the sites thereof and the land immediately appurtenant thereto and necessary for their enjoyment) from attachment or sale in execution of decrees for rent of any such house, building, site or land. 
+ STATE AMENDMENTS 
+ Andhra Pradesh- 
+ In its application to Andhra area of the State of Andhra Pradesh in section 60(1) clause (g) of the proviso after the words “pensioners of the Government” the words “or a local authority” shall be inserted. In its application to whole of State of A.P. in proviso to sub-section (1) of section 60. (i) after clause (k) the following shall be inserted. “(kk) amount payable under policies issued in pursuance of the Rules for the Andhra Pradesh Govt. life Insurance and Provident Fund”. (ii) after Explanation 2 insert the following: “Explanation 2A-Where any sum payable to a Government servant is exempt from attachment under the provisions of clause (kk), such sum shall remain exempt from attachment notwithstanding the fact that owing to the death of the Govt. servant it is payable to some other person”. In its application to Hyderabad area of Andhra Pradesh: (i) after clause (g) of the proviso to section 60 (1) insert the following: “(gg) pension granted or continued by the Central Govt. the Govt. of Hyderabad or any other State Govt. on account of part services or present infirmities or as a compassionate allowance and.” (ii) In Explanation 2A, for the words brackets and letter “Clause (kk)” substitute “Clause (gg) or Clause (kk)”. In its application to the State of Andhra Pradesh: (i) After clause (kk) of Section 60(1) proviso the following inserted: “(kkk) amounts payable under the Andhra Pradesh State Employees Family Benefit Fund Rules.” (ii) For the words “(kk)’, in Explanation 2A, the words “(kkk) inserted. 
+ Gujarat- 
+ (i) In section 60(1) after clause (g) insert the following. “(gg) stipends and gratuities allowed to pensioners of a local authority”. (ii) Explanation 1, after the word “(g)” insert “(gg)”. 
+ Himachal Pradesh- 
+ (i) In section 60 (1) at the end of Clause ( c) insert the following. “or compensation paid for such houses and buildings (including compensation for the materials and the sites and the land referred to above) acquired for public purpose”. (ii) After clause ( c), clause (cc) shall be inserted. “(cc) Compensation paid for agricultural lands belonging to agriculturists and acquired for public purpose”. 
+ Karnataka- 
+ In section 60 (1) after clause (p) the following shall be inserted in its application to Karnataka (except Bellary District). “(pp) Where the judgment-debtor is a servant of the State Govt. who has insured his life under the rules in force relating to the official branch of Karnataka Govt. Life Insurance Department- (1) in the case of insurance effected prior to the ninth day of may, 1911 the whole of the bonus payable or paid thereunder to such servant, or in the event of his death to his nominee or other person or persons entitled to such bonus under the said rules, and (2) in the case of Insurance effected on or after the ninth day of May, 1911, and such insurance is Compulsory premia payable or paid to such servant or in the event of his death to his nominee or other person or persons entitled to such bonus under the said rules. 
+ Kerala- 
+ After clause (g) the following clause (gg) shall be inserted- “(gg) all moneys payable to the beneficiaries under the Family Benefit Scheme for the employee of the Government of Kerala. 
+ Maharashtra- 
+ (i) In section 60(1) after clause (g) of the proviso insert the following- “(gg) in the Hyderabad area of the State of Maharashtra any pension granted or continued by the Central Govt. or the Govt. of the former State of Hyderabad or any other State Govt. on account of part services or present infirmities or as a compassionate allowance which is not covered by clause (g)”. (ii) after clause (kb) insert the following- “(kbb) the amounts payable under the policies issued in pursuance of the Rules for the Hyderabad State Life Insurance and Provident Fund, which are not covered under clause (ka) or (kb)”. 
+ Punjab and Haryana- 
+ (i) In clause ( c) of the proviso to section 60 (1) for the words “occupied by him” substitute the following- “not proved by the decree holder to have been let out on rent or lent to persons other than his father mother, wife, son, daughter, daughter in law, brother, sister or other dependents or left vacant for a period of a year or more”. (ii) after clause ( c) insert the following- “(cc) milch animals, whether in milk or in calf, animals used for the purposes of transport or draught cart and open spaces or endorures belonging to an agriculturist and required for use in case of need for tying cattle parking carts or stacking fodder or manure. (ccc) one main residential house and other buildings attached to it (with the material and the sites there of and the land immediately appurtenant there to and necessary for there enjoyment belonging to a judgment-debtor other than an agriculturist and occupied by him; Provided that the protection afforded by this clause shall not extend to any property specifically charged with the debt sought to be recovered”. (iii) after sub-section (2) insert the following sub-sections. “(3) Notwithstanding any other law for the time being in force an agreement by which a debtor agrees to waive any benefit of any exemption under this section shall be void. (4) For the purposes of this section the word `agriculturist’ shall include every person whether as owner tenant partner or agricultural labour who depends for his livelihood mainly on income from agricultural land as defined in the Punjab Alienation of Land Act. 1910. (5) Every member of a tribe notified as agricultural under the Punjab Alienation of Land Act, 1900 and every member of a scheduled caste shall be presumed to be as agriculturist until the contrary is provided. (6) No order for attachment shall be made unless the court is satisfied that the property sought to be attached is not exempt from attachment or sale”. 
+ Rajasthan- 
+ (i) In clause (b) of section 60 (1) after the word `Agriculturist’ the words `his milch cattle and those likely to calve within two years’ shall be inserted. (ii) after clause (k) of the proviso to section 60 (1) insert the following. “(kk) moneys payable under life Insurance Certificates issued in pursuance of the Rajasthan Govt. Servants Insurance Rules, 1953”. (iii) after Explanation 3 insert the following: “Explanation 4-Where any money payable to a Govt. servant of the state is exempt from attachment under the provision contained in clause (kk), such money shall remain exempt from the attachment notwithstanding the fact there owing to the death of a Govt. servant it is payable to some other person”. 
+ Tamil Nadu- 
+ “[Section 60](../sections/section-60.md) (1), clause (g) of the proviso after the words “stipends and gratuties allowed to the pensioners of the Govt.” insert the words “or of a local authority”. 
+ Union Territory of Chandigarh- 
+ Same as in Punjab and Haryana. 
+ Union Territory of Pundicherry- 
+ Same as in Tamil Nadu. 
+ Uttar Pradesh- 
+ In section 60 (1) after Explanation 1 add the following: “Explanation 1-A-Particulars mentioned in clause ( c) are exempt from sale in execution of a decree whether passed before or after the commencement of the Code of Civil Procedure (United Provinces) Amendment Act, 1948 for enforcement of a mortgage of charge thereon”.
+
+---
+
+## Explanations
+
+**Explanation 1:** Rajasthan- (i) In clause (b) of section 60 (1) after the word `Agriculturist’ the words `his milch cattle and those likely to calve within two years’ shall be inserted. (ii) after clause (k) of the proviso to section 60 (1) insert the following. “(kk) moneys payable under life Insurance Certificates issued in pursuance of the Rajasthan Govt. Servants Insurance Rules, 1953”. (iii) after Explanation 3 insert the following: “Explanation 4-Where any money payable to a Govt. servant of the state is exempt from attachment under the provision contained in clause (kk), such money shall remain exempt from the attachment notwithstanding the fact there owing to the death of a Govt. servant it is payable to some other person”.
+
+**Explanation 2:** Uttar Pradesh- In section 60 (1) after Explanation 1 add the following: “Explanation 1-A-Particulars mentioned in clause ( c) are exempt from sale in execution of a decree whether passed before or after the commencement of the Code of Civil Procedure (United Provinces) Amendment Act, 1948 for enforcement of a mortgage of charge thereon”.
+
+
+---
+
+*Source: [https://devgan.in/cpc/chapter_02.php](https://devgan.in/cpc/chapter_02.php)*

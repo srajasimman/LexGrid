@@ -1,0 +1,17 @@
+# Alembic database migrations
+
+This directory will contain Alembic migration scripts for managing
+PostgreSQL schema changes (including pgvector extension setup).
+
+## Usage
+
+```bash
+# Apply all pending migrations
+alembic upgrade head
+
+# Create a new migration
+alembic revision --autogenerate -m "add_chunks_table"
+
+# Rollback one step
+alembic downgrade -1
+```

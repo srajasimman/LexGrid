@@ -1,0 +1,81 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+*.pyd
+.pytest_cache/
+.coverage
+htmlcov/
+.mypy_cache/
+*.egg-info/
+*.egg
+dist/
+build/
+
+# Virtual environments
+.venv/
+venv/
+env/
+ENV/
+
+# Node.js
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.npm
+.yarn-integrity
+.next/
+out/
+.next-env.d.ts
+
+# Build outputs
+*.tsbuildinfo
+.next/
+dist/
+build/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Environment & secrets
+.env
+.env.local
+.env.*.local
+*.key
+*.secret
+
+# Logs
+*.log
+logs/
+
+# Docker
+# .dockerignore
+
+# Testing / coverage
+coverage/
+.nyc_output/
+
+# Task & session artifacts (from dev tools)
+.tmp/
+.ruff_cache/
+.todos/
+
+# Database
+*.db
+*.sqlite
+*.sqlite3
+
+# Misc
+*.bak
+*.tmp
+*.cache

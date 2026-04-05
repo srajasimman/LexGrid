@@ -1,0 +1,27 @@
+---
+act: "Code of Criminal Procedure"
+act_code: "crpc"
+act_year: "1973"
+chapter: "12"
+chapter_title: "Chapter: 12 – Information To The Police And Their Powers To Investigate"
+section: "166"
+section_title: "When officer in charge of police station may require another to issue search-warrant"
+source_url: "https://devgan.in/crpc/chapter_12.php"
+---
+
+# Section 166 — When officer in charge of police station may require another to issue search-warrant
+
+**Act:** Code of Criminal Procedure, 1973  
+**Chapter:** 12 — Chapter: 12 – Information To The Police And Their Powers To Investigate
+
+---
+
+An officer in charge of a police station or a police officer not being below the rank of sub-Inspector making an investigation may require an officer in charge of another police station, whether in the same or a different district, to cause a search to be made in any place, in any case in which the former officer might cause such search to be made, within the limits of his own station. 
+ Such officer, on being so required, shall proceed according to the provisions of section 165, and shall forward the thing found, if any, to the officer at whose request the search was made. 
+ Whenever there is reason to believe that the delay occasioned by requiring an officer in charge of another police station to cause a search to be made under Sub-Section (1) might result in evidence of the commission of an offence being concealed or destroyed, it shall be lawful for an officer in charge of a police station or a police officer making any investigation under this Chapter to search, or cause to be searched, any place in the limits of another police station in accordance with the provisions of section 165, as if such place were within the limits of his own police station. 
+ Any officer conducting a search under Sub-Section (3) shall forthwith send notice of the search to the officer in charge of the police station within the limits of which such place is situate, and shall also send with such notice a copy of the list (if any) prepared under section 100, and shall also send to the nearest Magistrate empowered to take cognizance of the offence, copies of the records referred to in Sub-Sections (1) and (3) of section 165. 
+ The owner or occupier of the place searched shall, on application, be furnished free of cost with a copy of any record sent to the Magistrate under Sub-Section (4).
+
+---
+
+*Source: [https://devgan.in/crpc/chapter_12.php](https://devgan.in/crpc/chapter_12.php)*

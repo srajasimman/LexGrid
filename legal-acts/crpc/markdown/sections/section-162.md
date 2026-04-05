@@ -1,0 +1,27 @@
+---
+act: "Code of Criminal Procedure"
+act_code: "crpc"
+act_year: "1973"
+chapter: "12"
+chapter_title: "Chapter: 12 – Information To The Police And Their Powers To Investigate"
+section: "162"
+section_title: "Statements to police not to be signed: Use of statements in evidence"
+source_url: "https://devgan.in/crpc/chapter_12.php"
+---
+
+# Section 162 — Statements to police not to be signed: Use of statements in evidence
+
+**Act:** Code of Criminal Procedure, 1973  
+**Chapter:** 12 — Chapter: 12 – Information To The Police And Their Powers To Investigate
+
+---
+
+No statement made by any person to a police officer in the course of an investigation under this Chapter, shall, if reduced to writing, be signed by the person making it; nor shall any such statement or any record thereof, whether in a police diary or otherwise, or any part of such statement or record, be used for any purpose, save as hereinafter provided, at any inquiry or trial in respect of any offence under investigation at the time when such statement was made: 
+ 
+ Provided that when any witness is called for the prosecution in such inquiry or trial whose statement has been reduced into writing as aforesaid, any part of his statement, if duly proved, may be used by the accused, and with the permission of the Court, by the prosecution, to contradict such witness in the manner provided by section 145 of the Indian Evidence Act, 1872 (1 of 1872); and when any part of such statement is so used, any part thereof may also be used in the re-examination of such witness, but for the purpose only of explaining any matter referred to in his cross-examination. 
+ Nothing in this section shall be deemed to apply to any statement falling within the provisions of clause (1) of section 32 of the Indian Evidence Act, 1872 (1 of 1872), or to affect the provisions of section 27 of that Act. 
+ Explanation – An omission to state a fact or circumstance in the statement referred to in Sub-Section (1) may amount to contradiction if the same appears to be significant and otherwise relevant having regard to the context in which such omission occurs and whether any omission amounts to a contradiction in the particular context shall be a question of fact.
+
+---
+
+*Source: [https://devgan.in/crpc/chapter_12.php](https://devgan.in/crpc/chapter_12.php)*

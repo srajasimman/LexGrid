@@ -1,0 +1,24 @@
+---
+act: "Code of Criminal Procedure"
+act_code: "crpc"
+act_year: "1973"
+chapter: "23"
+chapter_title: "Evidence In Inquiries And Trials"
+section: "299"
+section_title: "Record of evidence in absence of accused"
+source_url: "https://devgan.in/crpc/chapter_23.php"
+---
+
+# Section 299 — Record of evidence in absence of accused
+
+**Act:** Code of Criminal Procedure, 1973  
+**Chapter:** 23 — Evidence In Inquiries And Trials
+
+---
+
+If it is proved that an accused person has absconded, and that there is no immediate prospect of arresting him, the Court competent to try or commit for trial such person for the offence complained of, may, in his absence, examine the witnesses (if any) produced on behalf of the prosecution, and record their depositions and any such deposition may, on the arrest of such person, be given in evidence against him on the inquiry into or trial for, the offence with which he is charged, if the deponent is dead or incapable of giving evidence or cannot be found or his presence cannot be procured without an amount of delay, expense or inconvenience which, under the circumstances of the case, would be unreasonable. 
+ If it appears that an offence punishable with death or imprisonment for life has been committed by some person or persons unknown, the High Court or the Sessions Judge may direct that any Magistrate of the first class shall hold an inquiry and examine any witnesses who can give evidence concerning the offence and any depositions so taken may be given in evidence against any person who is subsequently accused of the offence, if the deponent is dead or incapable of giving evidence or beyond the limits of India.
+
+---
+
+*Source: [https://devgan.in/crpc/chapter_23.php](https://devgan.in/crpc/chapter_23.php)*

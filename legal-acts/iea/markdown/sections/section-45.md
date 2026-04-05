@@ -1,0 +1,31 @@
+---
+act: "Indian Evidence Act"
+act_code: "iea"
+act_year: "1872"
+chapter: "02"
+chapter_title: "Of the Relevancy of Facts"
+section: "45"
+section_title: "Opinions of experts"
+source_url: "https://devgan.in/iea/chapter_02.php"
+---
+
+# Section 45 — Opinions of experts
+
+**Act:** Indian Evidence Act, 1872  
+**Chapter:** 02 — Of the Relevancy of Facts
+
+---
+
+When the Court has to form an opinion upon a point of foreign law or of science or art, or as identity of handwriting or finger impressions, the opinions upon that point of persons specially skilled in such foreign law, science or art, or in questions as to identity of handwriting or finger impressions are relevant facts. 
+ Such persons are called experts. 
+ Illustrations 
+ The question is, whether the death of A was caused by poison. 
+ The opinions of experts as to the symptoms produced by the poison by which A is supposed to have died are relevant. 
+ The question is, whether A. at the time of doing a certain act, was, by reason of unsoundness of mind, incapable of knowing the nature of the Act, or that he was doing what was either wrong or contrary to law. 
+ The opinions of experts upon the question whether the symptoms exhibited by A commonly show unsoundness of mind, and whether such unsoundness of mind usually renders persons incapable of knowing the nature of the acts which they do, or of knowing that what they do is either wrong or contrary to law, are relevant. 
+ The question is, whether a certain document was written by A. Another document is produced which is proved or admitted to have been written by A. 
+ The opinions of experts on the question whether the two documents were written by the same person or by different persons are relevant.
+
+---
+
+*Source: [https://devgan.in/iea/chapter_02.php](https://devgan.in/iea/chapter_02.php)*

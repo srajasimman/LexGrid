@@ -1,0 +1,38 @@
+---
+act: "Code of Criminal Procedure"
+act_code: "crpc"
+act_year: "1973"
+chapter: "14"
+chapter_title: "Conditions Requisite For Initiation Of Proceedings"
+section: "197"
+section_title: "Prosecution of Judges and public servants"
+source_url: "https://devgan.in/crpc/chapter_14.php"
+---
+
+# Section 197 — Prosecution of Judges and public servants
+
+**Act:** Code of Criminal Procedure, 1973  
+**Chapter:** 14 — Conditions Requisite For Initiation Of Proceedings
+
+---
+
+When any person who is or was a Judge or Magistrate or a public servant not removable from his office save by or with the sanction of the Government is accused of any offence alleged to have been committed by him while acting or purporting to act in the discharge of his official duty, no Court shall take cognizance of such offence except with the previous sanction- 
+ in the case of a person who is employed or, as the case may be, was at the time of commission of the alleged offence employed, in connection with the affairs of the Union, of the Central Government; 
+ in the case of a person who is employed or, as the case may be, was at the lime of commission of the alleged offence employed, in connection with the affairs of a State, of the State Government: 
+ 
+ Provided that where the alleged offence was committed by a person referred to in clause (b) during the period while a Proclamation issued under clause (1) of Article 356 of the Constitution was in force in a State, clause (b) will apply as if for the expression “State Government” occurring therein, the expression “Central Government” were substituted. 
+ 
+ Explanation — For the removal of doubts it is hereby declared that no sanction shall be required in case of a public servant accused of any offence alleged to have been committed under section 166A, section 166B, section 354, section 354A, section 354B, section 354C, section 354D, section 370, section 375, section 376A, section 2 376AB, section 376C, section 376D, section 376DA, section 376DB or section 509 of the Indian Penal Code. 1 
+ No Court shall take cognizance of any offence alleged to have been committed by any member of the Armed Forces of the Union whole acting or purporting to act in the discharge of his official duty, except with the previous sanction of the Central Government. 
+ The State Government may, by notification, direct that the provisions of Sub-Section (2) shall apply to such class or category of the members of the Forces charged with the maintenance of public order as may be specified therein, wherever they may be serving, and thereupon the provisions of that Sub-Section will apply as if for the expression “Central Government” occurring therein, the expression “State Government” were substituted. 
+ 
+ 3A. Notwithstanding anything contained in Sub-Section (3), no Court shall take cognizance of any offence, alleged to have been committed by any member of the Forces charged with the maintenance of public order in a State while acting or purporting to act in the discharge of his official duty during the period while a Proclamation issued under clause (1) of article 356 of the Constitution was in force therein, except with the previous sanction of the Central Government. 
+ 
+ 3B. Notwithstanding anything to the contrary contained in this Code or any other law, it is hereby declared that any sanction accorded by the State Government or any cognizance taken by a Court upon such sanction, during the period commencing on the 20th day of August, 1991 and ending with the date immediately preceding the date on which the Code of Criminal Procedure (Amendment) Act, 1991, receives the assent of the President, with respect to an offence alleged to have been committed during the period while a Proclamation issued under clause (1) of article 356 of the Constitution was in force in the State, shall be invalid and it shall be competent for the Central Government in such matter to accord sanction and for the Court to take cognizance thereon. 
+ The Central Government or the State Government, as the case may be, may determine the person by whom, the manner in which, and the offence or offences for which, the prosecution of such Judge, Magistrate or public servant is to be conducted, and may specify the Court before which the trial is to be held. 
+ 1 Criminal Law (Amendment) Act, 2013 
+ 2 Criminal Law (Amendment) Act, 2018
+
+---
+
+*Source: [https://devgan.in/crpc/chapter_14.php](https://devgan.in/crpc/chapter_14.php)*

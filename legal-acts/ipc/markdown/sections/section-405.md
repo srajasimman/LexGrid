@@ -1,0 +1,33 @@
+---
+act: "Indian Penal Code"
+act_code: "ipc"
+act_year: "1860"
+chapter: "17"
+chapter_title: "Of Offences Against Property"
+section: "405"
+section_title: "Criminal breach of trust"
+source_url: "https://devgan.in/ipc/chapter_17.php"
+---
+
+# Section 405 — Criminal breach of trust
+
+**Act:** Indian Penal Code, 1860  
+**Chapter:** 17 — Of Offences Against Property
+
+---
+
+Whoever, being in any manner entrusted with property, or with any dominion over property, dishonestly misappropriates or converts to his own use that property, or dishonestly uses or disposes of that property in violation of any direction of law prescribing the mode in which such trust is to be discharged, or of any legal contract, express or implied, which he has made touching the discharge of such trust, or wilfully suffers any other person so to do, commits “criminal breach of trust”. 
+ Explanations 
+ A person, being an employer of an establishment whether exempted under section 17 of the Employees' Provident Funds and Miscellaneous Provisions Act, 1952 (19 of 1952) or not who deducts the employees' contribution from the wages payable to the employee for credit to a Provident Fund or Family Pension Fund established by any law for the time being in force, shall be deemed to have been entrusted with the amount of the contribution so deducted by him and if he makes default in the payment of such contribution to the said Fund in violation of the said law shall be deemed to have dishonestly used the amount of the said contribution in violation of a direction of law as aforesaid. 
+ A person, being an employer, who deducts the employees contribution from the wages payable to the employee for credit to the Employees' State Insurance Fund held and administered by the Employees' State Insurance Corporation established under the Employees' State Insurance Act, 1948 (34 of 1948), shall be deemed to have been entrusted with the amount of the contribution so deducted by him and if he makes default in the payment of such contribution to the said Fund in violation of the said Act, shall be deemed to have dishonestly used the amount of the said contribution in violation of a direction of law as aforesaid. 
+ Illustrations 
+ A, being executor to the will of a deceased person, dishonestly disobeys the law which directs him to divide the effects according to the will, and appropriates them to his own use. A has committed criminal breach of trust. 
+ A is a warehouse-keeper, Z, going on a journey, entrusts his furniture to A, under a contract that it shall be returned on payment of a stipulated sum for warehouse-room. A dishonestly sells the goods. A has committed criminal breach of trust. 
+ A, residing in Calcutta, is agent for Z, residing at Delhi. There is an express or implied contract between A and Z, that all sums remitted by Z to A shall be invested by A, according to Z’ direction. Z remits a lakh of rupees to A, with directions to A to invest the same in Company’ paper. A dishonestly disobeys the directions and employs the money in his own business. A has committed criminal breach of trust. 
+ But if A, in the last illustration, not dishonestly but in good faith, believing that it will be more for Z’ advantage to hold shares in the Bank of Bengal, disobeys Z’ directions, and buys shares in the Bank of Bengal, for Z, instead of buying Company’ paper, here, thought Z should suffer loss, and should be entitled to bring a civil action against A, on account of that loss, yet A, not having acted dishonestly, has not committed criminal breach of trust. 
+ A, a revenue-officer, is entrusted with public money and is either directed by law, or bound by a contract, express or implied, with the Government, to pay into a certain treasury all the public money which he holds. A dishonestly appropriates the money. A has committed criminal breach of trust. 
+ A, a carrier, is entrusted by Z with property to be carried by land or by water. A dishonestly misappropriates the property. A has committed criminal breach of trust.
+
+---
+
+*Source: [https://devgan.in/ipc/chapter_17.php](https://devgan.in/ipc/chapter_17.php)*

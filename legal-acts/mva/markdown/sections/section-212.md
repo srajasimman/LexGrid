@@ -1,0 +1,26 @@
+---
+act: "Motor Vehicles Act"
+act_code: "mva"
+act_year: "1988"
+chapter: "14"
+chapter_title: "Miscellaneous"
+section: "212"
+section_title: "Publication, commencement and laying of rules and notifications"
+source_url: "https://devgan.in/mva/chapter_14.php"
+---
+
+# Section 212 — Publication, commencement and laying of rules and notifications
+
+**Act:** Motor Vehicles Act, 1988  
+**Chapter:** 14 — Miscellaneous
+
+---
+
+The power to make rules under this Act is subject to the condition of the rules being made after previous publication. 
+ All rules made under this Act shall be published in the Official Gazette, and shall unless some later date is appointed, come into force on the date of such publication. 
+ Every rule made by any State Government shall be laid, as soon as may be after it is made before the State Legislature. 
+ Every rule made by the Central Government under this Act, every scheme made by the Central Government under sub-section (1) of section 75 and sub-section (1) of section 163 and every notification issued by the Central Government under sub-section (4) of section 41, sub-section (1) of section 58, sub-section (1) of section 59, the proviso to sub-section (1) of section 112, sub-section (4) of section 163A and sub-section (4) of section 213 shall be laid, as soon as may be after it is made, before each House of Parliament while it is in session for a total period of thirty days which may be comprised in one session or in two or more successive sessions, and if, before the expiry of the session immediately following the session or the successive sessions aforesaid, both Houses agree in making any modification in the rule, scheme or notification or both Houses agree that the rule or scheme should not be made or the notification should not be issued, the rule, scheme or notification shall thereafter have effect only in such modified form or be of no effect, as the case may be; so, however, that any such modification or annulment shall be without prejudice to the validity of anything previously done under that rule, scheme or notification.
+
+---
+
+*Source: [https://devgan.in/mva/chapter_14.php](https://devgan.in/mva/chapter_14.php)*

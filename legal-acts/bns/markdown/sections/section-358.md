@@ -1,0 +1,30 @@
+---
+act: "Bharatiya Nyaya Sanhita"
+act_code: "bns"
+act_year: "2023"
+chapter: "20"
+chapter_title: "Repeal And Savings"
+section: "358"
+section_title: "Repeal and savings."
+source_url: "https://devgan.in/bns/chapter_20.php"
+---
+
+# Section 358 — Repeal and savings.
+
+**Act:** Bharatiya Nyaya Sanhita, 2023  
+**Chapter:** 20 — Repeal And Savings
+
+---
+
+The Indian Penal Code is hereby repealed. 
+ Notwithstanding the repeal of the Code referred to in sub-section (1), it shall not affect, 
+ the previous operation of the Code so repealed or anything duly done or suffered thereunder; or 
+ any right, privilege, obligation or liability acquired, accrued or incurred under the Code so repealed; or 
+ any penalty, or punishment incurred in respect of any offences committed against the Code so repealed; or 
+ any investigation or remedy in respect of any such penalty, or punishment; or (e) any proceeding, investigation or remedy in respect of any such penalty or punishment as aforesaid, and any such proceeding or remedy may be instituted, continued or enforced, and any such penalty may be imposed as if that Code had not been repealed. 
+ Notwithstanding such repeal, anything done or any action taken under the said Code shall be deemed to have been done or taken under the corresponding provisions of this Sanhita. 
+ The mention of particular matters in sub-section (2) shall not be held to prejudice or affect the general application of section 6 of the General Clauses Act,1897 with regard to the effect of the repeal.
+
+---
+
+*Source: [https://devgan.in/bns/chapter_20.php](https://devgan.in/bns/chapter_20.php)*

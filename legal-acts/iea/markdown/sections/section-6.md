@@ -1,0 +1,28 @@
+---
+act: "Indian Evidence Act"
+act_code: "iea"
+act_year: "1872"
+chapter: "02"
+chapter_title: "Of the Relevancy of Facts"
+section: "6"
+section_title: "Relevancy of facts forming part of same transaction"
+source_url: "https://devgan.in/iea/chapter_02.php"
+---
+
+# Section 6 — Relevancy of facts forming part of same transaction
+
+**Act:** Indian Evidence Act, 1872  
+**Chapter:** 02 — Of the Relevancy of Facts
+
+---
+
+Facts which, though not in issue, are so connected with a fact in issue as to form part of the same transaction, are relevant, whether they occurred at the same time and place or at different times and places. 
+ Illustrations 
+ A is accused of the murder of B by beating him. Whatever was said or done by A or B or the by-standers at the beating, or so shortly before or after it as to form part of the transaction, is a relevant fact. 
+ A is accused of waging war against the Government of India by taking part in an armed insurrection in which property is destroyed, troops are attacked and goals are broken open. The occurrence of these facts is relevant, as forming part of the general transaction, thought A may not have been present at all of them. 
+ A sues B for a libel contained in a letter forming part of a correspondence. Letters between the parties relating to the subject out of which the libel arose, and forming part of the correspondence in which it is contained, are relevant facts, though they do not contain the libel itself. 
+ The question is, whether certain goods ordered from B were delivered to A. The goods were delivered to several intermediate persons successively. Each delivery is a relevant fact.
+
+---
+
+*Source: [https://devgan.in/iea/chapter_02.php](https://devgan.in/iea/chapter_02.php)*

@@ -1,0 +1,39 @@
+---
+act: "National Investigation Agency Act"
+act_code: "nia"
+act_year: "2008"
+chapter: "17"
+chapter_title: "Of Penalties in Case of Dishonour of Certain Cheques for Insufficiency of Funds in the Accounts"
+section: "142"
+section_title: "Cognizance of offences"
+source_url: "https://devgan.in/nia/chapter_17.php"
+---
+
+# Section 142 — Cognizance of offences
+
+**Act:** National Investigation Agency Act, 2008  
+**Chapter:** 17 — Of Penalties in Case of Dishonour of Certain Cheques for Insufficiency of Funds in the Accounts
+
+---
+
+Notwithstanding anything contained in the Code of Criminal Procedure, 1973 (2 of 1974),- 
+ no court shall take cognizance of any offence punishable under section 138 except upon a complaint, in writing, made by the payee or, as the case may be, the holder in due course of the cheque; 
+ such complaint is made within one month of the date on which the cause of action arises under clause ( c ) of the proviso to section 138; 
+ Provided that the cognizance of a complaint may be taken by the Court after the prescribed period, if the complainant satisfies the Court that he had sufficient cause for not making a complaint within such period. 
+ no court inferior to that of a Metropolitan Magistrate or a Judicial Magistrate of the first class shall try any offence punishable under section 138. 
+ The offence under section 138 shall be inquired into and tried only by a court within whose local jurisdiction,— 
+ if the cheque is delivered for collection through an account, the branch of the bank where the payee or holder in due course, as the case may be, maintains the account, is situated; or 
+ if the cheque is presented for payment by the payee or holder in due course, otherwise through an account, the branch of the drawee bank where the drawer maintains the account, is situated. 
+ 
+ Explanation.— For the purposes of clause (a), where a cheque is delivered for collection at any branch of the bank of the payee or holder in due course, then, the cheque shall be deemed to have been delivered to the branch of the bank in which the payee or holder in due course, as the case may be, maintains the account.
+
+---
+
+## Explanations
+
+**Explanation 1:** Explanation.—
+
+
+---
+
+*Source: [https://devgan.in/nia/chapter_17.php](https://devgan.in/nia/chapter_17.php)*

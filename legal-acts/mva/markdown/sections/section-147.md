@@ -1,0 +1,42 @@
+---
+act: "Motor Vehicles Act"
+act_code: "mva"
+act_year: "1988"
+chapter: "11"
+chapter_title: "Insurance of Motor Vehicles Against Third Party Risks"
+section: "147"
+section_title: "Requirements of policies and limits of liability"
+source_url: "https://devgan.in/mva/chapter_11.php"
+---
+
+# Section 147 — Requirements of policies and limits of liability
+
+**Act:** Motor Vehicles Act, 1988  
+**Chapter:** 11 — Insurance of Motor Vehicles Against Third Party Risks
+
+---
+
+In order to comply with the requirements of this Chapter, a policy of insurance must be a policy which— 
+ is issued by a person who is an authorised insurer; and 
+ insures the person or classes of persons specified in the policy to the extent specified in sub-section (2)— 
+ against any liability which may be incurred by him in respect of the death of or bodily injury to any person, including owner of the goods or his authorised representative carried in the vehicle or damage to any property of a third party caused by or arising out of the use of the vehicle in a public place; 
+ against the death of or bodily injury to any passenger of a public service vehicle caused by or arising out of the use of the vehicle in a public place: 
+ Provided that a policy shall not be required— 
+ to cover liability in respect of the death, arising out of and in the course of his employment, of the employee of a person insured by the policy or in respect of bodily injury sustained by such an employee arising out of and in the course of his employment other than a liability arising under the Workmen’s Compensation Act, 1923 (8 of 1923) in respect of the death of, or bodily injury to, any such employee— 
+ engaged in driving the vehicle, or 
+ if it is a public service vehicle engaged as conductor of the vehicle or in examining tickets on the vehicle, or 
+ if it is a goods carriage, being carried in the vehicle, or 
+ to cover any contractual liability. 
+ Explanation 
+ For the removal of doubts, it is hereby declared that the death of or bodily injury to any person or damage to any property of a third party shall be deemed to have been caused by or to have arisen out of, the use of a vehicle in a public place notwithstanding that the person who is dead or injured or the property which is damaged was not in a public place at the time of the accident, if the act or omission which led to the accident occurred in a public place. 
+ Subject to the proviso to sub-section (1), a policy of insurance referred to in sub-section (1), shall cover any liability incurred in respect of any accident, up to the following limits, namely— 
+ save as provided in clause (b), the amount of liability incurred; 
+ in respect of damage to any property of a third party, a limit of rupees six thousand: 
+ Provided that any policy of insurance issued with any limited liability and in force, immediately before the commencement of this Act, shall continue to be effective for a period of four months after such commencement or till the date of expiry of such policy whichever is earlier. 
+ A policy shall be of no effect for the purposes of this Chapter unless and until there is issued by the insurer in favour of the person by whom the policy is effected a certificate of insurance in the prescribed form and containing the prescribed particulars of any condition subject to which the policy is issued and of any other prescribed matters; and different forms, particulars and matters may be prescribed in different cases. 
+ Where a cover note issued by the insurer under the provisions of this Chapter or the rules made thereunder is not followed by a policy of insurance within the prescribed time, the insurer shall, within seven days of the expiry of the period of the validity of the cover note, notify the fact to the registering authority in whose records the vehicle to which the cover note relates has been registered or to such other authority as the State Government may prescribe. 
+ Notwithstanding anything contained in any law for the time being in force, an insurer issuing a policy of insurance under this section shall be liable to indemnify the person or classes of persons specified in the policy in respect of any liability which the policy purports to cover in the case of that person or those classes of persons.
+
+---
+
+*Source: [https://devgan.in/mva/chapter_11.php](https://devgan.in/mva/chapter_11.php)*

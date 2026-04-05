@@ -1,0 +1,26 @@
+---
+act: "Bharatiya Nyaya Sanhita"
+act_code: "bns"
+act_year: "2023"
+chapter: "18"
+chapter_title: "Of Offences Relating To Documents And To Property Marks"
+section: "341"
+section_title: "Making or possessing counterfeit seal, etc., with intent to commit forgery punishable under section 338."
+source_url: "https://devgan.in/bns/chapter_18.php"
+---
+
+# Section 341 — Making or possessing counterfeit seal, etc., with intent to commit forgery punishable under section 338.
+
+**Act:** Bharatiya Nyaya Sanhita, 2023  
+**Chapter:** 18 — Of Offences Relating To Documents And To Property Marks
+
+---
+
+Whoever makes or counterfeits any seal, plate or other instrument for making an impression, intending that the same shall be used for the purpose of committing any forgery which would be punishable under section 336 of this Sanhita, or, with such intent, has in his possession any such seal, plate or other instrument, knowing the same to be counterfeit, shall be punished with imprisonment for life, or with imprisonment of either description for a term which may extend to seven years, and shall also be liable to fine. 
+ Whoever makes or counterfeits any seal, plate or other instrument for making an impression, intending that the same shall be used for the purpose of committing any forgery which would be punishable under any section of this Chapter other than section 336 , or, with such intent, has in his possession any such seal, plate or other instrument, knowing the same to be counterfeit, shall be punished with imprisonment of either description for a term which may extend to seven years, and shall also be liable to fine. 
+ Whoever possesses any seal, plate or other instrument knowing the same to be counterfeit, shall be punished with imprisonment of either description for a term which may extend to three years, and shall also be liable to fine. 
+ Whoever fraudulently or dishonestly uses as genuine any seal, plate or other instrument knowing or having reason to believe the same to be counterfeit, shall be punished in the same manner as if he had made or counterfeited such seal, plate or other instrument.
+
+---
+
+*Source: [https://devgan.in/bns/chapter_18.php](https://devgan.in/bns/chapter_18.php)*

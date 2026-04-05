@@ -1,0 +1,40 @@
+---
+act: "Indian Penal Code"
+act_code: "ipc"
+act_year: "1860"
+chapter: "17"
+chapter_title: "Of Offences Against Property"
+section: "445"
+section_title: "House-breaking"
+source_url: "https://devgan.in/ipc/chapter_17.php"
+---
+
+# Section 445 — House-breaking
+
+**Act:** Indian Penal Code, 1860  
+**Chapter:** 17 — Of Offences Against Property
+
+---
+
+A person is said to commit “house-breaking” who commits house-trespass if he effects his entrance into the house or any part of it in any of the six ways hereinafter described; or if, being in the house or any part of it for the purpose of committing an offence, or having committed an offence therein, he quits the house or any part of it in any of it in such six ways, that is to say: 
+ If he enters or quits through a passage made by himself, or by any abettor of the house-trespass, in order to the committing of the house-trespass. 
+ If he enters or quits through any passage not intended by any person, other than himself or an abettor of the offence, for human entrance; or through any passage to which he has obtained access by scaling or climbing over any wall or building. 
+ If he enters or quits through any passage which he or any abettor of the house-trespass has opened, in order to the committing of the house-trespass by any means by which that passage was not intended by the occupier of the house to be opened. 
+ If he enters or quits by opening any lock in order to the committing of the house-trespass, or in order to the quitting of the house after a house-trespass. 
+ If he effects his entrance or departure by using criminal force or committing an assault, or by threatening any person with assault. 
+ If he enters or quits by any passage which he knows to have been fastened against such entrance or departure, and to have been unfastened by himself or by an abettor of the house-trespass. 
+ Explanations 
+ Any out-house or building occupied with a house, and between which and such house there is an immediate internal communication, is part of the house within the meaning of this section. 
+ Illustrations 
+ A commits house-trespass by making a hole through the wall of Z’ house, and putting his hand through the aperture. This is house-breaking. 
+ A commits house-trespass by creeping into a ship at a port-hole between decks. This is house-breaking. 
+ A commits house-trespass by entering Z’ house through a window. This is house-breaking. 
+ A commits house-trespass by entering Z’ house through the door, having opened a door which was fastened. This is house-breaking. 
+ A commits house-trespass by entering Z’ house through the door, having lifted a latch by putting a wire through a hole in the door. This is house-breaking. 
+ A finds the key of Z’ house door, which Z had lost, and commits house trespass by entering Z’ house, having opened the door with that key. This is house-breaking. 
+ Z is standing in his doorway. A forces a passage by knocking Z down, and commits house-trespass by entering the house. This is house-breaking. 
+ Z, the door-keeper of Y, is standing in Y’ doorway. A commits house-trespass by entering the house, having deterred Z from opposing him by threatening to beat him. This is house-breaking.
+
+---
+
+*Source: [https://devgan.in/ipc/chapter_17.php](https://devgan.in/ipc/chapter_17.php)*

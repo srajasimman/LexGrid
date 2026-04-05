@@ -1,0 +1,24 @@
+---
+act: "Code of Criminal Procedure"
+act_code: "crpc"
+act_year: "1973"
+chapter: "08"
+chapter_title: "Security For Keeping The Peace And For Good Behaviour"
+section: "107"
+section_title: "Security for keeping the peace in other cases"
+source_url: "https://devgan.in/crpc/chapter_08.php"
+---
+
+# Section 107 — Security for keeping the peace in other cases
+
+**Act:** Code of Criminal Procedure, 1973  
+**Chapter:** 08 — Security For Keeping The Peace And For Good Behaviour
+
+---
+
+When an Executive Magistrate receives information that any person is likely to commit a breach of the peace or disturb the public tranquility or to do any wrongful act that may probably occasion a breach of the peace or disturb the public tranquility and is of opinion that there is sufficient ground for proceeding, he may in the manner hereinafter provided, require such person to show cause why he should not be ordered to execute a bond with or without sureties for keeping the peace for such period, not exceeding one year, as the Magistrate thinks fit. 
+ Proceeding under this section may be taken before any Executive Magistrate when either the place where the breach of the peace or disturbance is apprehended is within his local jurisdiction or there is within such jurisdiction a person who is likely to commit a breach of the peace or disturb the public tranquility or to do any wrongful act as aforesaid beyond such jurisdiction.
+
+---
+
+*Source: [https://devgan.in/crpc/chapter_08.php](https://devgan.in/crpc/chapter_08.php)*

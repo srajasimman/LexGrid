@@ -1,0 +1,39 @@
+---
+act: "Motor Vehicles Act"
+act_code: "mva"
+act_year: "1988"
+chapter: "02"
+chapter_title: "Licensing of Drivers of Motor Vehicles"
+section: "19"
+section_title: "Power of licensing authority to disqualify from holding a driving license or revoke such license"
+source_url: "https://devgan.in/mva/chapter_02.php"
+---
+
+# Section 19 — Power of licensing authority to disqualify from holding a driving license or revoke such license
+
+**Act:** Motor Vehicles Act, 1988  
+**Chapter:** 02 — Licensing of Drivers of Motor Vehicles
+
+---
+
+If a licensing authority is satisfied, after giving the holder of a driving license an opportunity of being heard, that he— 
+ is a habitual criminal or habitual drunkard; or 
+ is a habitual addict to any narcotic drug or psychotropic substance within the meaning of the Narcotic Drugs and Psychotropic Substances Act, 1985 (61 of 1985); or 
+ is using or has used a motor vehicle in the commission of a cognizable offence; or 
+ has by his previous conduct as driver of a motor vehicle shown that his driving is likely to be attended with danger to the public; or 
+ has obtained any driving license or a license to drive a particular class or description of motor vehicle by fraud or misrepresentation; or 
+ has committed any such act which is likely to cause nuisance or danger to the public, as may be prescribed by the Central Government, having regard to the objects of this Act; or 
+ has failed to submit to, or has not passed, the tests referred to in the proviso to sub-section (3) of section 22; or 
+ being a person under the age of eighteen years who has been granted a learner’s license or a driving license with the consent in writing of the person having the care of the holder of the license and has ceased to be in such care, it may, for reasons to be recorded in writing, make an order— 
+ disqualifying that person for a specified period for holding or obtaining any driving license to drive all or any classes or descriptions of vehicles specified in the license; or 
+ revoke any such license. 
+ Where an order under sub-section (1) is made, the holder of a driving license shall forthwith surrender his driving license to the licensing authority making the order, if the driving license has not already been surrendered, and the licensing authority shall— 
+ if the driving license is a driving license issued under this Act, keep it until the disqualification has expired or has been removed; or 
+ if it is not a driving license issued under this Act, endorse the disqualification upon it and send it to the licensing authority by which it was issued; or 
+ in the case of revocation of any license, endorse the revocation upon it and if it is not the authority which issued the same, intimate the fact of revocation to the authority which issued that license: 
+ Provided that where the driving license of a person authorises him to drive more than one class or description of motor vehicles and the order, made under sub-section (1), disqualifies him from driving any specified class or description of motor vehicles, the licensing authority shall endorse the disqualification upon the driving license and return the same to the holder. 
+ Any person aggrieved by an order made by a licensing authority under sub-section (1) may, within thirty days of the receipt of the order, appeal to the prescribed authority, and such appellate authority shall give notice to the licensing authority and hear either party if so required by that party and may pass such order as it thinks fit and an order passed by any such appellate authority shall be final.
+
+---
+
+*Source: [https://devgan.in/mva/chapter_02.php](https://devgan.in/mva/chapter_02.php)*

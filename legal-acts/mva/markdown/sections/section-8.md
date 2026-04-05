@@ -1,0 +1,35 @@
+---
+act: "Motor Vehicles Act"
+act_code: "mva"
+act_year: "1988"
+chapter: "02"
+chapter_title: "Licensing of Drivers of Motor Vehicles"
+section: "8"
+section_title: "Grant of learner’s license"
+source_url: "https://devgan.in/mva/chapter_02.php"
+---
+
+# Section 8 — Grant of learner’s license
+
+**Act:** Motor Vehicles Act, 1988  
+**Chapter:** 02 — Licensing of Drivers of Motor Vehicles
+
+---
+
+Any person who is not disqualified under section 4 for driving a motor vehicle and who is not for the time being disqualified for holding or obtaining a driving license may, subject to the provisions of section 7, apply to the licensing authority having jurisdiction in the area— 
+ in which he ordinarily resides or carries on business, or 
+ in which the school or establishment referred to in section 12 from where he intends to receive instruction in driving a motor vehicle is situate, for the issue to him of a learner’s license. 
+ Every application under sub-section (1) shall be in such form and shall be accompanied by such documents and with such fee as may be prescribed by the Central Government. 
+ Every application under sub-section (1) shall be accompanied by a medical certificate in such form as may be prescribed by the Central Government and signed by such registered medical practitioner, as the State Government or any person authorised in this behalf by the State Government may, by notification in the Official Gazette, appoint for this purpose: 
+ Provided that no such medical certificate is required for license to drive a vehicle other than a transport vehicle. 
+ If, from the application or from the medical certificate referred to in sub-section (3), it appears that the applicant is suffering from any disease or disability which is likely to cause the driving by him of a motor vehicle of the class which he would be authorised by the learner’s license applied for to drive to be a source of danger to the public or to the passengers, the licensing authority shall refuse to issue the learner’s license: 
+ Provided that a learner’s license limited to driving an invalid carriage may be issued to the applicant, if the licensing authority is satisfied that he is fit to drive such a carriage. 
+ No learner’s license shall be issued to any applicant unless he passes to the satisfaction of the licensing authority such test as may be prescribed by the Central Government. 
+ When an application has been duly made to the appropriate licensing authority and the applicant has satisfied such authority of his physical fitness under sub-section (3) and has passed to the satisfaction of the licensing authority the test referred to in sub-section (5), the licensing authority shall, subject to the provisions of section 7, issue the applicant a learner’s license unless the applicant is disqualified under section 4 for driving a motor vehicle or is for the time being disqualified for holding or obtaining a license to drive a motor vehicle: 
+ Provided that a licensing authority may issue a learner’s license to drive a motor cycle or a light motor vehicle notwithstanding that it is not the appropriate licensing authority, if such authority is satisfied that there is good reason for the applicant’s inability to apply to the appropriate licensing authority. 
+ Where the Central Government is satisfied that it is necessary or expedient so to do, it may, by rules made in this behalf, exempt generally, either absolutely or subject to such conditions as may be specified in the rules, any class of persons from the provisions of sub-section (3), or sub-section (5), or both. 
+ Any learner’s license for driving a motor cycle in force immediately before the commencement of this Act shall, after such commencement, be deemed to be effective for driving a motor cycle with or without gear.
+
+---
+
+*Source: [https://devgan.in/mva/chapter_02.php](https://devgan.in/mva/chapter_02.php)*

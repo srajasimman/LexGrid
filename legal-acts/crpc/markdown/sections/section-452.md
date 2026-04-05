@@ -1,0 +1,27 @@
+---
+act: "Code of Criminal Procedure"
+act_code: "crpc"
+act_year: "1973"
+chapter: "34"
+chapter_title: "Disposal Of Property"
+section: "452"
+section_title: "Order for disposal of property at conclusion of trial"
+source_url: "https://devgan.in/crpc/chapter_34.php"
+---
+
+# Section 452 — Order for disposal of property at conclusion of trial
+
+**Act:** Code of Criminal Procedure, 1973  
+**Chapter:** 34 — Disposal Of Property
+
+---
+
+When an inquiry or trial in any Criminal Court is concluded, the Court may make such order as it thinks fit for the disposal, by destruction, confiscation or delivery to any person claiming to be entitled to possession thereof or otherwise, of any property or document produced before it or in its custody, or regarding which any offence appears to have been committed, or which has been used for the commission of any offence. 
+ An order may be made under Sub-Section (1) for the delivery of any property to any person claiming to be entitled to the possession thereof, without any condition or on condition that he executes a bond with or without sureties, to the satisfaction of the Court, engaging to restore such property to the Court if the order made under Sub-Section (1) is modified or set aside on appeal or revision. 
+ A Court of Session may, instead of itself making an order under Sub-Section (1), direct the property to be delivered to the Chief Judicial Magistrate, who shall thereupon deal with it in the manner provided in sections 457, 458 and 459. 
+ Except where the properly is livestock or is subject to speedy and natural decay, or where a bond has been executed in pursuance of Sub-Section (2), an order made under Sub-Section (1) shall not be carried out for two months, or when an appeal is presented, until such appeal has been disposed of. 
+ In this section, the term “property” includes, in the case of properly regarding which an offence appears to have been committed, not only such property as has been originally in the possession or under the control of any party, but also any property into or for which the same may have been converted or exchanged, and anything acquired by such conversion or exchange, whether immediately or otherwise.
+
+---
+
+*Source: [https://devgan.in/crpc/chapter_34.php](https://devgan.in/crpc/chapter_34.php)*

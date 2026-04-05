@@ -1,0 +1,33 @@
+---
+act: "Motor Vehicles Act"
+act_code: "mva"
+act_year: "1988"
+chapter: "05"
+chapter_title: "Control of Transport Vehicles"
+section: "89"
+section_title: "Appeals"
+source_url: "https://devgan.in/mva/chapter_05.php"
+---
+
+# Section 89 — Appeals
+
+**Act:** Motor Vehicles Act, 1988  
+**Chapter:** 05 — Control of Transport Vehicles
+
+---
+
+Any person— 
+ aggrieved by the refusal of the State or a Regional Transport Authority to grant a permit, or by any condition attached to a permit granted to him, or 
+ aggrieved by the revocation or suspension of the permit or by any variation of the conditions thereof, or 
+ aggrieved by the refusal to transfer the permit under section 82, or 
+ aggrieved by the refusal of the State or a Regional Transport Authority to countersign a permit, or by any condition attached to such countersignature, or 
+ aggrieved by the refusal of renewal of a permit, or 
+ aggrieved by the refusal to grant permission under section 83, or 
+ aggrieved by any other order which may be prescribed, may, within the prescribed time and in the prescribed manner, appeal to the State Transport Appellate Tribunal constituted under sub-section (2), who shall, after giving such person and the original authority an opportunity of being heard, give a decision thereon which shall be final. 
+ The State Government shall constitute such number of Transport Appellate Tribunals as it thinks fit and each such Tribunal shall consist of a judicial officer who is not below the rank of a District Judge or who is qualified to be a Judge of the High Court and it shall exercise jurisdiction within such area as may be notified by that Government. 
+ Notwithstanding anything contained in sub-section (1) or sub-section (2), every appeal pending at the commencement of this Act, shall continue to be proceeded with and disposed of as if this Act had not been passed. Explanations 
+ For the removal of doubts, it is hereby declared that when any order is made by the State Transport Authority or the Regional Transport Authority in pursuance of a direction issued by the Inter-State Transport Commission under clause (c ) of sub-section (2) of section 63A of the Motor Vehicles Act, 1939 (4 of 1939), as it stood immediately before the commencement of this Act, and any person feels aggrieved by such order on the ground that it is not in consonance with such direction, he may appeal under sub- section (1) to the State Transport Appellate Tribunal against such order but not against the direction so issued.
+
+---
+
+*Source: [https://devgan.in/mva/chapter_05.php](https://devgan.in/mva/chapter_05.php)*

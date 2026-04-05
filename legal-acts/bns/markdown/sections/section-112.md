@@ -1,0 +1,29 @@
+---
+act: "Bharatiya Nyaya Sanhita"
+act_code: "bns"
+act_year: "2023"
+chapter: "06"
+chapter_title: "Of Offences Affecting The Human Body"
+section: "112"
+section_title: "Petty organised crime."
+source_url: "https://devgan.in/bns/chapter_06.php"
+---
+
+# Section 112 — Petty organised crime.
+
+**Act:** Bharatiya Nyaya Sanhita, 2023  
+**Chapter:** 06 — Of Offences Affecting The Human Body
+
+---
+
+Any crime that causes general feelings of insecurity among citizens relating to theft of vehicle or theft from vehicle, domestic and business theft, trick theft, cargo crime, theft (attempt to theft, theft of personal property), organised pick pocketing, snatching, theft through shoplifting or card skimming and Automated Teller Machine thefts or procuring money in unlawful manner in public transport system or illegal selling of tickets and selling of public examination question papers and such other common forms of organised crime committed by organised criminal groups or gangs, shall constitute petty organised crimes and shall include the said crimes when committed by mobile organised crime groups or gangs that create network of contacts, anchor points, and logistical support among themselves to carry out number of offences in region over a period before moving on. 
+ Whoever commits or attempts to commit any petty organised crime, under sub-section (1) shall be punished with imprisonment for a term which shall not be less than one year but which may extend to seven years, and shall also be liable to fine. 
+ BNSS Classification 
+ Imprisonment for not less than 1 year but which may extend to 7 years and fine. 
+ Cognizable 
+ Non-Bailable 
+ Triable by Magistrate of the first class.
+
+---
+
+*Source: [https://devgan.in/bns/chapter_06.php](https://devgan.in/bns/chapter_06.php)*

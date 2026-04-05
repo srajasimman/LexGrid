@@ -1,0 +1,25 @@
+---
+act: "Indian Penal Code"
+act_code: "ipc"
+act_year: "1860"
+chapter: "10"
+chapter_title: "Of Contempts of the Lawful Authority of Public Servants"
+section: "176"
+section_title: "Omission to give notice or information to public servant by person legally bound to give it"
+source_url: "https://devgan.in/ipc/chapter_10.php"
+---
+
+# Section 176 — Omission to give notice or information to public servant by person legally bound to give it
+
+**Act:** Indian Penal Code, 1860  
+**Chapter:** 10 — Of Contempts of the Lawful Authority of Public Servants
+
+---
+
+Whoever, being legally bound to give any notice or to furnish information on any subject to any public servant, as such, intentionally omits to give such notice or to furnish such information in the manner and at the time required by law, shall be punished with simple imprisonment for a term which may extend to one month, or with fine which may extend to five hundred rupees, or with both; 
+ or, if the notice or information required to be given respects the commission of an offence, or is required for the purpose of preventing the commission of an offence, or in order to the apprehension of an offender, with simple imprisonment for a term which may extend to six months, or with fine which may extend to one thousand rupees, or with both; 
+ or, if the notice or information required to be given is required by an order passed under sub-section (1) of section 565 of the Code of Criminal Procedure, 1898 (5 of 1898), with imprisonment of either description for a term which may extend to six months, or with fine which may extend to one thousand rupees, or with both.
+
+---
+
+*Source: [https://devgan.in/ipc/chapter_10.php](https://devgan.in/ipc/chapter_10.php)*

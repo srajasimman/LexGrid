@@ -1,0 +1,26 @@
+---
+act: "Code of Criminal Procedure"
+act_code: "crpc"
+act_year: "1973"
+chapter: "32"
+chapter_title: "Execution, Suspension, Remission And Commutation Of Sentences"
+section: "424"
+section_title: "Suspension of execution of sentence of imprisonment"
+source_url: "https://devgan.in/crpc/chapter_32.php"
+---
+
+# Section 424 — Suspension of execution of sentence of imprisonment
+
+**Act:** Code of Criminal Procedure, 1973  
+**Chapter:** 32 — Execution, Suspension, Remission And Commutation Of Sentences
+
+---
+
+When an offender has been sentenced to fine only and to imprisonment in default of payment of the fine and the fine is not paid forthwith, the Court may 
+ order that the fine shall be payable either in fully on or before a date not more than thirty days from the date of the order, or in two or three instalments, of which the first shall be payable on or before a date not more than thirty days from the date of the order and the other or others at an interval or at intervals, as the case may be, of not more than thirty days; 
+ suspend the execution of the sentence of imprisonment and release the offender, on the execution by the offender of a bond, with or without sureties, as the Court thinks fit, conditioned for his appearance before the Court on the date or dates on or before which payment of the fine or the instalment thereof, as the case may be, is to be made; and if the amount of the fine or of any instalment, as the case may be, is not realised on or before the latest date on which it is payable under the order, the Court may direct the sentence of imprisonment to be carried into execution at once. 
+ The provisions of Sub-Section (1) shall be applicable also in any case in which an order for the payment of money has been made on non-recovery of which imprisonment may be awarded and the money is not paid forthwith; and, if the person against whom the order has been made, on being required to enter into a bond such as is referred to in that Sub-Section, fails to do so, the Court may at once pass sentence of imprisonment.
+
+---
+
+*Source: [https://devgan.in/crpc/chapter_32.php](https://devgan.in/crpc/chapter_32.php)*

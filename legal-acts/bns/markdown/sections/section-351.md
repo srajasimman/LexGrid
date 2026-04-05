@@ -1,0 +1,30 @@
+---
+act: "Bharatiya Nyaya Sanhita"
+act_code: "bns"
+act_year: "2023"
+chapter: "19"
+chapter_title: "Of Criminal Intimidation, Insult, Annoyance, Defamation, Etc."
+section: "351"
+section_title: "Criminal intimidation."
+source_url: "https://devgan.in/bns/chapter_19.php"
+---
+
+# Section 351 — Criminal intimidation.
+
+**Act:** Bharatiya Nyaya Sanhita, 2023  
+**Chapter:** 19 — Of Criminal Intimidation, Insult, Annoyance, Defamation, Etc.
+
+---
+
+Whoever threatens by any means, another with any injury to his person, reputation or property, or to the person or reputation of any one in whom that person is interested, with intent to cause alarm to that person, or to cause that person to do any act which he is not legally bound to do, or to omit to do any act which that person is legally entitled to do, as the means of avoiding the execution of such threat, commits criminal intimidation. 
+ 
+ Explanation: A threat to injure the reputation of any deceased person in whom the person threatened is interested, is within this section. 
+ 
+ Illustration: A, for the purpose of inducing B to resist from prosecuting a civil suit, threatens to burn B’s house. A is guilty of criminal intimidation. 
+ Whoever commits the offence of criminal intimidation shall be punished with imprisonment of either description for a term which may extend to two years, or with fine, or with both. 
+ Whoever commits the offence of criminal intimidation by treating to cause death or grievous hurt, or to cause the destruction of any property by fire, or to cause an offence punishable with death or imprisonment for life, or with imprisonment for a term which may extend to seven years, or to impute unchastity to a woman, shall be punished with imprisonment of either description for a term which may extend to seven years, or with fine, or with both. 
+ Whoever commits the offence of criminal intimidation by an anonymous communication, or having taken precaution to conceal the name or abode of the person from whom the threat comes, shall be punished with imprisonment of either description for a term which may extend to two years, in addition to the punishment provided for the offence under sub-section (1).
+
+---
+
+*Source: [https://devgan.in/bns/chapter_19.php](https://devgan.in/bns/chapter_19.php)*

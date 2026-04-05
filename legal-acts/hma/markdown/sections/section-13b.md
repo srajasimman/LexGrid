@@ -1,0 +1,24 @@
+---
+act: "Hindu Marriage Act"
+act_code: "hma"
+act_year: "1955"
+chapter: "04"
+chapter_title: "Nullity of Marriage and Divorce"
+section: "13B"
+section_title: "Divorce by mutual consent"
+source_url: "https://devgan.in/hma/chapter_04.php"
+---
+
+# Section 13B — Divorce by mutual consent
+
+**Act:** Hindu Marriage Act, 1955  
+**Chapter:** 04 — Nullity of Marriage and Divorce
+
+---
+
+Subject to the provisions of this Act a petition for dissolution of marriage by a decree of divorce may be presented to the district court by both the parties to a marriage together, whether such marriage was solemnized before or after the commencement of the Marriage Laws (Amendment) Act, 1976 (68 of 1976), on the ground that they have been living separately for a period of one year or more, that they have not been able to live together and that they have mutually agreed that the marriage should be dissolved. 
+ On the motion of both the parties made not earlier than six months after the date of the presentation of the petition referred to in sub-section (1) and not later than eighteen months after the said date, if the petition is not withdrawn in the meantime, the court shall, on being satisfied, after hearing the parties and after making such inquiry as it thinks fit, that a marriage has been solemnized and that the averments in the petition are true, pass a decree of divorce declaring the marriage to be dissolved with effect from the date of the decree.
+
+---
+
+*Source: [https://devgan.in/hma/chapter_04.php](https://devgan.in/hma/chapter_04.php)*

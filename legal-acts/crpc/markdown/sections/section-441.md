@@ -1,0 +1,26 @@
+---
+act: "Code of Criminal Procedure"
+act_code: "crpc"
+act_year: "1973"
+chapter: "33"
+chapter_title: "Provisions As To Bail And Bonds"
+section: "441"
+section_title: "Bond of accused and sureties"
+source_url: "https://devgan.in/crpc/chapter_33.php"
+---
+
+# Section 441 — Bond of accused and sureties
+
+**Act:** Code of Criminal Procedure, 1973  
+**Chapter:** 33 — Provisions As To Bail And Bonds
+
+---
+
+Before any person is released on bail or released on his own bond, a bond for such sum of money as the police officer or Court, as the case may be, thinks sufficient shall be executed by such person, and, when he is released on bail, by one or more sufficient sureties conditioned that such person shall attend at the time and place mentioned in the bond, and shall continue so to attend until otherwise directed by the police officer or Court, as the case may be. 
+ Where any condition is imposed for the release of any person on bail, the bond shall also contain that condition. 
+ If the case so requires, the bond shall also bind the person released on bail to appear when called upon at the High Court, Court of Session or other Court to answer the charge. 
+ For the purpose of determining whether the sureties are fit or sufficient, the Court may accept affidavits in proof of the facts contained therein relating to the sufficiency or fitness of the sureties, or, if it considers necessary, may either hold an inquiry itself or cause an inquiry to be made by a Magistrate subordinate to the Court, as to such sufficiency or fitness.
+
+---
+
+*Source: [https://devgan.in/crpc/chapter_33.php](https://devgan.in/crpc/chapter_33.php)*

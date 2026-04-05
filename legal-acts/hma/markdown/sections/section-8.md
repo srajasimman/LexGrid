@@ -1,0 +1,27 @@
+---
+act: "Hindu Marriage Act"
+act_code: "hma"
+act_year: "1955"
+chapter: "02"
+chapter_title: "Hindu Marriage"
+section: "8"
+section_title: "Registration of Hindu marriages"
+source_url: "https://devgan.in/hma/chapter_02.php"
+---
+
+# Section 8 — Registration of Hindu marriages
+
+**Act:** Hindu Marriage Act, 1955  
+**Chapter:** 02 — Hindu Marriage
+
+---
+
+For the purpose of facilitating the proof of Hindu marriages, the State Government may make rules providing that the parties to any such marriage may have the particulars relating to their marriage entered in such manner and subject to such conditions as may be prescribed in a Hindu Marriage Register kept for the purpose. 
+ Notwithstanding anything contained in sub-section (1), the State Government may, if it is of opinion that it is necessary or expedient so to do, provide that the entering of the particulars referred to in sub-section (1) shall be compulsory in the State or in any part thereof, whether in all cases or in such cases as may be specified, and where any such direction has been issued, any person contravening any rule made in this behalf shall be punishable with fine which may extend to twenty-five rupees. 
+ All rules made under this section shall be laid before the State Legislature, as soon as may be, after they are made. 
+ The Hindu Marriage Register shall at all reasonable times be open for inspection, and shall be admissible as evidence of the statements therein contained and certified extracts therefrom shall, on application, be given by the Registrar on payment to him of the prescribed fee. 
+ Notwithstanding anything contained in this section, the validity of any Hindu marriage shall in no way be affected by the omission to make the entry.
+
+---
+
+*Source: [https://devgan.in/hma/chapter_02.php](https://devgan.in/hma/chapter_02.php)*

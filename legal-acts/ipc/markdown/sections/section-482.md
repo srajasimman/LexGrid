@@ -1,0 +1,23 @@
+---
+act: "Indian Penal Code"
+act_code: "ipc"
+act_year: "1860"
+chapter: "18"
+chapter_title: "Of Offences Relating to Documents and to Property Marks"
+section: "482"
+section_title: "Punishment for using a false property mark"
+source_url: "https://devgan.in/ipc/chapter_18.php"
+---
+
+# Section 482 — Punishment for using a false property mark
+
+**Act:** Indian Penal Code, 1860  
+**Chapter:** 18 — Of Offences Relating to Documents and to Property Marks
+
+---
+
+Whoever uses any false property mark shall, unless he proves that he acted without intent to defraud, be punished with imprisonment of either description for a term which may extend to one year, or with fine, or with both.
+
+---
+
+*Source: [https://devgan.in/ipc/chapter_18.php](https://devgan.in/ipc/chapter_18.php)*

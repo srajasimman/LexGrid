@@ -1,0 +1,23 @@
+---
+act: "Indian Penal Code"
+act_code: "ipc"
+act_year: "1860"
+chapter: "11"
+chapter_title: "Of False Evidence and Offences Against Public Justice"
+section: "225B"
+section_title: "Resistance or obstruction to lawful apprehension, or escape or rescue in cases not otherwise provided for"
+source_url: "https://devgan.in/ipc/chapter_11.php"
+---
+
+# Section 225B — Resistance or obstruction to lawful apprehension, or escape or rescue in cases not otherwise provided for
+
+**Act:** Indian Penal Code, 1860  
+**Chapter:** 11 — Of False Evidence and Offences Against Public Justice
+
+---
+
+Whoever, in any case not provided for in section 224 or section 225 or in any other law for the time being in force, intentionally offers any resistance or illegal obstruction to the lawful apprehension of himself or of any other person, or escapes or attempts to escape from any custody in which he is lawfully detained, or rescues or attempts to rescue any other person from any custody in which that person is lawfully detained, shall be punished with imprisonment of either description for a term which may extend to six months, or with fine, or with both.
+
+---
+
+*Source: [https://devgan.in/ipc/chapter_11.php](https://devgan.in/ipc/chapter_11.php)*

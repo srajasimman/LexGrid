@@ -1,0 +1,24 @@
+---
+act: "Indian Penal Code"
+act_code: "ipc"
+act_year: "1860"
+chapter: "14"
+chapter_title: "Of Offences Affecting the Public Health, Safety, Convenience, Decency and Morals"
+section: "294A"
+section_title: "Keeping lottery office"
+source_url: "https://devgan.in/ipc/chapter_14.php"
+---
+
+# Section 294A — Keeping lottery office
+
+**Act:** Indian Penal Code, 1860  
+**Chapter:** 14 — Of Offences Affecting the Public Health, Safety, Convenience, Decency and Morals
+
+---
+
+Whoever keeps any office or place for the purpose of drawing any lottery not being a State lottery or a lottery authorised by the State Government, shall be punished with imprisonment of either description for a term which may extend to six months, or with fine, or with both. 
+ And whoever publishes any proposal to pay any sum, or to deliver any goods, or to do or forbear doing anything for the benefit of any person, on any event or contingency relative or applicable to the drawing of any ticket, lot, number or figure in any such lottery shall be punished with fine which may extend to one thousand rupees.
+
+---
+
+*Source: [https://devgan.in/ipc/chapter_14.php](https://devgan.in/ipc/chapter_14.php)*

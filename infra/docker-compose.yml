@@ -1,0 +1,104 @@
+name: lexgrid
+# LexGrid infrastructure: postgres+pgvector, redis, backend, celery-worker, ui
+# Usage: cd infra && docker compose up -d
+
+# Common environment variables for backend and celery-worker
+x-common-environment: &common-env
+  DATABASE_URL: postgresql+asyncpg://lexgrid:lexgrid@postgres:5432/lexgrid
+  REDIS_URL: redis://redis:6379/0
+  CELERY_BROKER_URL: redis://redis:6379/1
+  CELERY_RESULT_BACKEND: redis://redis:6379/2
+  LEGAL_ACTS_DIR: /app/legal-acts
+
+services:
+  postgres:
+    image: pgvector/pgvector:pg16
+    container_name: lexgrid-postgres
+    environment:
+      POSTGRES_USER: lexgrid
+      POSTGRES_PASSWORD: lexgrid
+      POSTGRES_DB: lexgrid
+    volumes:
+      - postgres_data:/var/lib/postgresql/data
+      - ./postgres/init.sql:/docker-entrypoint-initdb.d/init.sql:ro
+    ports:
+      - "5432:5432"
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U lexgrid -d lexgrid"]
+      interval: 10s
+      timeout: 5s
+      retries: 5
+
+  redis:
+    image: redis:7-alpine
+    container_name: lexgrid-redis
+    command: redis-server --appendonly yes --maxmemory 512mb --maxmemory-policy allkeys-lru
+    volumes:
+      - redis_data:/data
+    ports:
+      - "6379:6379"
+    healthcheck:
+      test: ["CMD", "redis-cli", "ping"]
+      interval: 10s
+      timeout: 3s
+      retries: 3
+
+  backend:
+    build:
+      context: ..
+      dockerfile: backend/Dockerfile
+    container_name: lexgrid-backend
+    env_file:
+      - ../.env
+    environment:
+      <<: *common-env
+    volumes:
+      - ../legal-acts:/app/legal-acts:ro
+    ports:
+      - "8000:8000"
+    depends_on:
+      postgres:
+        condition: service_healthy
+      redis:
+        condition: service_healthy
+    healthcheck:
+      test: ["CMD", "curl", "-f", "http://localhost:8000/health"]
+      interval: 30s
+      timeout: 10s
+      retries: 3
+      start_period: 20s
+
+  celery-worker:
+    build:
+      context: ..
+      dockerfile: backend/Dockerfile
+    container_name: lexgrid-celery
+    command: celery -A app.workers.celery_app worker --loglevel=info --concurrency=4
+    env_file:
+      - ../.env
+    environment:
+      <<: *common-env
+    volumes:
+      - ../legal-acts:/app/legal-acts:ro
+    depends_on:
+      postgres:
+        condition: service_healthy
+      redis:
+        condition: service_healthy
+
+  ui:
+    build:
+      context: ../ui
+      dockerfile: Dockerfile
+    container_name: lexgrid-ui
+    environment:
+      NEXT_PUBLIC_API_URL: http://localhost:8000
+      BACKEND_URL: http://backend:8000
+    ports:
+      - "3000:3000"
+    depends_on:
+      - backend
+
+volumes:
+  postgres_data:
+  redis_data:

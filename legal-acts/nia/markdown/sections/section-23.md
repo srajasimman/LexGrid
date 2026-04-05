@@ -1,0 +1,26 @@
+---
+act: "National Investigation Agency Act"
+act_code: "nia"
+act_year: "2008"
+chapter: "02"
+chapter_title: "Of Notes, Bills and Cheques"
+section: "23"
+section_title: "Calculating maturity of bill or note payable so many months after date or sight"
+source_url: "https://devgan.in/nia/chapter_02.php"
+---
+
+# Section 23 — Calculating maturity of bill or note payable so many months after date or sight
+
+**Act:** National Investigation Agency Act, 2008  
+**Chapter:** 02 — Of Notes, Bills and Cheques
+
+---
+
+In calculating the date at which a promissory note or bill of exchange, made payable a stated number of months after date or after sight, or after a certain event, is at maturity, the period stated shall be held to terminate on the day of the month which corresponds with the day on which the instrument is dated, or presented for acceptance or sight, or noted for non-acceptance, or protested for non-acceptance, or the event happens, or, where the instrument is a bill of exchange made payable a stated number of months after sight and has been accepted for honour, with the day on which it was so accepted. If the month in which the period would terminate has no corresponding day, the period shall be held to terminate on the last day of such month. Illustrations 
+ A negotiable instrument, dated 29th January 1878, is made payable at one month after date. The instrument is at maturity on the third day after the 28th February 1878. 
+ A negotiable instrument, dated 30th August 1878, is made payable three months after date. The instrument is at maturity on the 3rd December 1878. 
+ A promissory note or bill of exchange, dated 31st August 1878, is made payable three months after date. The instrument is at maturity on the 3rd December 1878.
+
+---
+
+*Source: [https://devgan.in/nia/chapter_02.php](https://devgan.in/nia/chapter_02.php)*

@@ -1,0 +1,58 @@
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[tool.hatch.build.targets.wheel]
+packages = ["app"]
+
+[project]
+name = "lexgrid-backend"
+version = "0.1.0"
+description = "LexGrid — Legal RAG System for Indian Bare Acts"
+requires-python = ">=3.11"
+dependencies = [
+    "fastapi>=0.111.0",
+    "uvicorn[standard]>=0.29.0",
+    "sqlalchemy[asyncio]>=2.0.30",
+    "asyncpg>=0.29.0",
+    "pgvector>=0.3.0",
+    "alembic>=1.13.0",
+    "openai>=1.30.0",
+    "redis[hiredis]>=5.0.4",
+    "celery[redis]>=5.4.0",
+    "rank-bm25>=0.2.2",
+    "pydantic>=2.7.0",
+    "pydantic-settings>=2.3.0",
+    "tiktoken>=0.7.0",
+    "tenacity>=8.3.0",
+    "structlog>=24.1.0",
+    "prometheus-client>=0.20.0",
+    "python-dotenv>=1.0.1",
+    "httpx>=0.27.0",
+]
+
+[project.optional-dependencies]
+dev = [
+    "pytest>=8.2.0",
+    "pytest-asyncio>=0.23.7",
+    "pytest-cov>=5.0.0",
+    "httpx>=0.27.0",
+    "ruff>=0.4.0",
+    "mypy>=1.10.0",
+]
+
+[tool.ruff]
+line-length = 100
+target-version = "py311"
+
+[tool.ruff.lint]
+select = ["E", "F", "I", "UP"]
+
+[tool.pytest.ini_options]
+asyncio_mode = "auto"
+testpaths = ["tests"]
+
+[tool.mypy]
+python_version = "3.11"
+strict = false
+ignore_missing_imports = true

@@ -1,0 +1,30 @@
+---
+act: "Motor Vehicles Act"
+act_code: "mva"
+act_year: "1988"
+chapter: "13"
+chapter_title: "Offences, Penalties and Procedure"
+section: "208"
+section_title: "Summary disposal of cases"
+source_url: "https://devgan.in/mva/chapter_13.php"
+---
+
+# Section 208 — Summary disposal of cases
+
+**Act:** Motor Vehicles Act, 1988  
+**Chapter:** 13 — Offences, Penalties and Procedure
+
+---
+
+The Court taking cognizance of any offence (other than an offence which the Central Government may by rules specify in this behalf) under this Act— 
+ may, if the offence is an offence punishable with imprisonment under this Act; and 
+ shall, in any other case, state upon the summons to be served on the accused person that he— 
+ may appear by pleader or in person; or 
+ may, by a specified date prior to the hearing of the charge, plead guilty to the charge and remit to the Court, by money order, such sum (not exceeding the maximum fine that may be imposed for the offence) as the Court may specify, and the plea of guilt indicated in the money order coupon itself: 
+ Provided that the Court shall, in the case of any of the offences referred to in sub-section (2), state upon the summons that the accused person, if he pleads guilty, shall so plead in the manner specified in clause (b) and shall forward his driving license to the Court with his letter containing such plea. 
+ Where the offence dealt with in accordance with sub-section (1) is an offence specified by the Central Government by rules for the purposes of this sub-section, the Court shall, if the accused person pleads guilty to the charge and forwards his driving license to the Court with the letter containing his plea, make an endorsement of such conviction on his driving license. 
+ Where an accused person pleads guilty and remits the sum specified and has complied with the provisions of sub-section (1), or as the case may be, sub-sections (1) and (2), no further proceedings in respect of the offence shall be taken against him nor shall he be liable, notwithstanding anything to the contrary contained in this Act, to be disqualified for holding or obtaining a license by reason of his having pleaded guilty.
+
+---
+
+*Source: [https://devgan.in/mva/chapter_13.php](https://devgan.in/mva/chapter_13.php)*

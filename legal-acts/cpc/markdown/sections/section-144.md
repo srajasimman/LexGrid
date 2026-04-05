@@ -1,0 +1,32 @@
+---
+act: "Code of Civil Procedure"
+act_code: "cpc"
+act_year: "1908"
+chapter: "11"
+chapter_title: "Part XI – Miscellaneous"
+section: "144"
+section_title: "Application for restitution"
+source_url: "https://devgan.in/cpc/chapter_11.php"
+---
+
+# Section 144 — Application for restitution
+
+**Act:** Code of Civil Procedure, 1908  
+**Chapter:** 11 — Part XI – Miscellaneous
+
+---
+
+Where and in so far as a decree or an order is varied or reversed in any appeal, revision or other proceedings or is set aside or modified in any suit instituted for the purpose the Court which passed the decree or order shall, on the application of any party entitled to any benefit by way of restitution or otherwise, cause such restitution to be made as will, so far as may be, place the parties in the position which they would have occupied but for such decree or order or such part thereof as has been varied, reversed, set aside or modified, and, for this purpose, the Court may make any orders, including orders for the refund of costs and for the payment of interest, damages, compensation and mesne profits, which are properly consequential on such variation, reversal, setting aside or modification of the decree or order. 
+ 
+ Explanation – For the purposes of sub-section (1) the expression “Court which passed the decree or order” shall be deemed to include- 
+ where the decree or order has been varied or reversed in exercise of appellate or revisional jurisdiction, the Court of first instance; 
+ where the decree or order has been set aside by a separate suit, the Court of first instance which passed such decree or order; 
+ where the Court of first instance has ceased to exist or has ceased to have jurisdiction to execute, it, the Court which, if the suit wherein the decree or order was passed were instituted at the time of making the application for restitution under this section, would have jurisdiction to try such suit. 
+ No suit shall be instituted for the purpose of obtaining any restitution or other relief which could be obtained by application under sub-section (1). 
+ STATE AMENDMENTS 
+ Uttar Pradesh- 
+ Substitute the following for sub-section (1) of section 144 of the Code: “(1) Where and in so far as a decree or an order is varied or reversed in appeal, revision or otherwise, the Court of first instance shall, on the application of any party entitled to any benefit by way of restitution or otherwise, cause such restitution to be made, as will, so for as may be, place the parties in the position which they would have occupied but for such decree or order or such part there of as has been varied or reversed; and for this purpose, the Court may make any orders, including orders for the refused of costs and for the payment of interest, damages, compensation and mesne profits, which are properly consequential on such variation or reversal”.
+
+---
+
+*Source: [https://devgan.in/cpc/chapter_11.php](https://devgan.in/cpc/chapter_11.php)*

@@ -1,0 +1,34 @@
+---
+act: "Bharatiya Nyaya Sanhita"
+act_code: "bns"
+act_year: "2023"
+chapter: "10"
+chapter_title: "Of Offences Relating To Coin, Currency Notes, Bank Notes, And Government Stamps"
+section: "186"
+section_title: "Prohibition of fictitious stamps."
+source_url: "https://devgan.in/bns/chapter_10.php"
+---
+
+# Section 186 — Prohibition of fictitious stamps.
+
+**Act:** Bharatiya Nyaya Sanhita, 2023  
+**Chapter:** 10 — Of Offences Relating To Coin, Currency Notes, Bank Notes, And Government Stamps
+
+---
+
+Whoever, 
+ makes, knowingly utters, deals in or sells any fictitious stamp, or knowingly uses for any postal purpose any fictitious stamp; or 
+ has in his possession, without lawful excuse, any fictitious stamp; or 
+ makes or, without lawful excuse, has in his possession any die, plate, instrument or materials for making any fictitious stamp, shall be punished with fine which may extend to two hundred rupees. 
+ Any such stamp, die, plate, instrument or materials in the possession of any person for making any fictitious stamp may be seized and, if seized shall be forfeited. 
+ In this section “fictitious stamp” means any stamp falsely purporting to be issued by Government for the purpose of denoting a rate of postage, or any facsimile or imitation or representation, whether on paper or otherwise, of any stamp issued by Government for that purpose. 
+ In this section and also in sections 176 to 179, and sections 181 to 183 both inclusive, the word “Government”, when used in connection with, or in reference to any stamp issued for the purpose of denoting a rate of postage, shall, notwithstanding anything in clause (11) of section 2 , be deemed to include the person or persons authorised by law to administer executive Government in any part of India or in any foreign country. 
+ BNSS Classification 
+ Fine of 200 rupees. 
+ Cognizable 
+ Bailable 
+ Triable by Any Magistrate.
+
+---
+
+*Source: [https://devgan.in/bns/chapter_10.php](https://devgan.in/bns/chapter_10.php)*

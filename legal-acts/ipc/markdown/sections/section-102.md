@@ -1,0 +1,23 @@
+---
+act: "Indian Penal Code"
+act_code: "ipc"
+act_year: "1860"
+chapter: "04"
+chapter_title: "General Exceptions"
+section: "102"
+section_title: "Commencement and continuance of the right of private defence of the body"
+source_url: "https://devgan.in/ipc/chapter_04.php"
+---
+
+# Section 102 — Commencement and continuance of the right of private defence of the body
+
+**Act:** Indian Penal Code, 1860  
+**Chapter:** 04 — General Exceptions
+
+---
+
+The right of private defence of the body commences as soon as a reasonable apprehension of danger to the body arises from an attempt or threat to commit the offence though the offence may not have been committed; and it continues as long as such apprehension of danger to the body continues.
+
+---
+
+*Source: [https://devgan.in/ipc/chapter_04.php](https://devgan.in/ipc/chapter_04.php)*

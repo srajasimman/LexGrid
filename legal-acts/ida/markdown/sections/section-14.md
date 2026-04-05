@@ -1,0 +1,24 @@
+---
+act: "Indian Divorce Act"
+act_code: "ida"
+act_year: "1869"
+chapter: "03"
+chapter_title: "Dissolution of Marriage"
+section: "14"
+section_title: "Power to Court to pronounce decree for dissolving marriage"
+source_url: "https://devgan.in/ida/chapter_03.php"
+---
+
+# Section 14 — Power to Court to pronounce decree for dissolving marriage
+
+**Act:** Indian Divorce Act, 1869  
+**Chapter:** 03 — Dissolution of Marriage
+
+---
+
+In case the Court is satisfied on the evidence that the case of the Petitioner has been proved, and does not find that the Petitioner has been in any manner accessory to, or conniving at, the going through of the said form of marriage, or the adultery of the other party to the marriage, or has condoned the adultery complained of, or that the Petition is presented or prosecuted in collusion with either of the respondents, the Court shall pronounce a decree declaring such marriage to be dissolved in the manner and subject to all the provisions and limitations in sections sixteen and seventeen made and declared: Provided that the Court shall not be bound to pronounce such decree if it finds that the Petitioner has, during the marriage, been guilty of adultery, or if the Petitioner has, in the opinion of the Court, been guilty of unreasonable delay in presenting or prosecuting such Petition, or of cruelty towards the other party to the marriage, or of having deserted or wilfully separated himself or herself from the other party before the adultery complained of, and without reasonable excuse, or of such wilful neglect or misconduct of or towards the other party as has conduced to the adultery. 
+ Condonation.- No adultery shall be deemed to have been condoned within the meaning of this Act unless where conjugal cohabitation has been resumed or continued.
+
+---
+
+*Source: [https://devgan.in/ida/chapter_03.php](https://devgan.in/ida/chapter_03.php)*

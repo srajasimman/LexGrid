@@ -1,0 +1,36 @@
+---
+act: "Code of Criminal Procedure"
+act_code: "crpc"
+act_year: "1973"
+chapter: "25"
+chapter_title: "Provisions As To Accused Persons Of Unsound Mind"
+section: "328"
+section_title: "Procedure in case of accused being lunatic"
+source_url: "https://devgan.in/crpc/chapter_25.php"
+---
+
+# Section 328 — Procedure in case of accused being lunatic
+
+**Act:** Code of Criminal Procedure, 1973  
+**Chapter:** 25 — Provisions As To Accused Persons Of Unsound Mind
+
+---
+
+When a Magistrate holding an inquiry has reason to believe that the person against whom the inquiry is being held is of unsound mind and consequently incapable of making his defence, the Magistrate shall inquire into the fact of such unsoundness of mind, and shall cause such person to be examined by the civil surgeon of the district or such other medical officer as the Stale Government may direct, and thereupon shall examine such surgeon or other officer as a witness and shall reduce the examination to writing. 
+ 
+ 1A. If the civil surgeon finds the accused to be of unsound mind, he shall refer such person to a psychiatrist or clinical psychologist for care, treatment and prognosis of the condition and the psychiatrist or clinical psychologist, as the case may be, shall inform the Magistrate whether the accused is suffering from unsoundness of mind or mental retardation: 
+ 
+ Provided that if the accused is aggrieved by the information given by the psychiatric or clinical psychologist, as the case may be, to the Magistrate, he may prefer an appeal before the Medical Board which shall consist of - 
+ head of psychiatry unit in the nearest government hospital; and 
+ a faculty member in psychiatry in the nearest medical college. 
+ Pending such examination and inquiry, the Magistrate may deal with such person in accordance with the provisions of section 330. 
+ If such Magistrate is informed that the person referred to in sub-section (1A) is a person of unsound mind, the Magistrate shall further determine whether the unsoundness of mind renders the accused incapable of entering defence and if the accused is found so incapable, the Magistrate shall record a finding to that effect, and shall examine the record of evidence produced by the prosecution and after hearing the advocate of the accused but without questioning the accused, if he finds that no prima facie case is made out against the accused, he shall, instead of postponing the enquiry, discharge the accused and deal with him in the manner 
+ 
+ Provided under section 330: 
+ 
+ Provided that if the Magistrate finds that a prima facie case is made out against the accused in respect of whom a finding of unsoundness of mind is arrived at, he shall postpone the proceeding for such period, as in the opinion of the psychiatrist or clinical psychologist, is required for the treatment of the accused, and order the accused to be dealt with as provided under section 330. 
+ If such Magistrate is informed that the person referred to in subsection (1A) is a person with mental retardation, the Magistrate shall further determine whether the mental retardation renders the accused incapable of entering defence, and if the accused is found so incapable, the Magistrate shall order closure of the inquiry and deal with the accused in the manner provided under section 330.
+
+---
+
+*Source: [https://devgan.in/crpc/chapter_25.php](https://devgan.in/crpc/chapter_25.php)*

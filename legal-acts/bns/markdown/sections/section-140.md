@@ -1,0 +1,30 @@
+---
+act: "Bharatiya Nyaya Sanhita"
+act_code: "bns"
+act_year: "2023"
+chapter: "06"
+chapter_title: "Of Offences Affecting The Human Body"
+section: "140"
+section_title: "Kidnapping or abducting in order to murder or for ransom etc."
+source_url: "https://devgan.in/bns/chapter_06.php"
+---
+
+# Section 140 — Kidnapping or abducting in order to murder or for ransom etc.
+
+**Act:** Bharatiya Nyaya Sanhita, 2023  
+**Chapter:** 06 — Of Offences Affecting The Human Body
+
+---
+
+Whoever kidnaps or abducts any person in order that such person may be murdered or may be so disposed of as to be put in danger of being murdered, shall be punished with imprisonment for life or rigorous imprisonment for a term which may extend to ten years, and shall also be liable to fine. 
+ 
+ Illustrations: 
+ A kidnaps Z from India, intending or knowing it to be likely that Z may be sacrificed to an idol. A has committed the offence defined in this section. 
+ A forcibly carries or entices B away from his home in order that B may be murdered. A has committed the offence defined in this section. 
+ Whoever kidnaps or abducts any person or keeps a person in detention after such kidnapping or abduction, and threatens to cause death or hurt to such person, or by his conduct gives rise to a reasonable apprehension that such person may be put to death or hurt, or causes hurt or death to such person in order to compel the Government or any foreign State or international inter-governmental organisation or any other person to do or abstain from doing any act or to pay a ransom, shall be punishable with death, or imprisonment for life, and shall also be liable to fine. 
+ Whoever kidnaps or abducts any person with intent to cause that person to be secretly and wrongfully confined, shall be punished with imprisonment of either description for a term which may extend to seven years, and shall also be liable to fine. 
+ Whoever kidnaps or abducts any person in order that such person may be subjected, or may be so disposed of as to be put in danger of being subjected to grievous hurt, or slavery, or to the unnatural lust of any person, or knowing it to be likely that such person will be so subjected or disposed of, shall be punished with imprisonment of either description for a term which may extend to ten years, and shall also be liable to fine.
+
+---
+
+*Source: [https://devgan.in/bns/chapter_06.php](https://devgan.in/bns/chapter_06.php)*

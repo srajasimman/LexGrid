@@ -1,0 +1,24 @@
+---
+act: "Motor Vehicles Act"
+act_code: "mva"
+act_year: "1988"
+chapter: "11"
+chapter_title: "Insurance of Motor Vehicles Against Third Party Risks"
+section: "152"
+section_title: "Settlement between insurers and insured persons"
+source_url: "https://devgan.in/mva/chapter_11.php"
+---
+
+# Section 152 — Settlement between insurers and insured persons
+
+**Act:** Motor Vehicles Act, 1988  
+**Chapter:** 11 — Insurance of Motor Vehicles Against Third Party Risks
+
+---
+
+No settlement made by an insurer in respect of any claim which might be made by a third party in respect of any liability of the nature referred to in clause (b) of sub-section (1) of section 147 shall be valid unless such third party is a party to the settlement. 
+ Where a person who is insured under a policy issued for the purposes of this Chapter has become insolvent, or where, if such insured person is a company, a winding- up order has been made or a resolution for a voluntary winding-up has been passed with respect to the company, no agreement made between the insurer and the insured person after the liability has been incurred to a third party and after the commencement of the insolvency or winding-up, as the case may be, nor any waiver, assignment or other disposition made by or payment made to the insured person after the commencement aforesaid shall be effective to defeat the rights transferred to the third party under this Chapter, but those rights shall be the same as if no such agreement, waiver, assignment or disposition or payment has been made.
+
+---
+
+*Source: [https://devgan.in/mva/chapter_11.php](https://devgan.in/mva/chapter_11.php)*
