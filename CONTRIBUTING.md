@@ -6,7 +6,7 @@ Thank you for your interest in contributing to LexGrid! This document provides g
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-org/lexgrid.git
+git clone https://github.com/srajasimman/lexgrid.git
 cd lexgrid
 
 # Copy environment template
@@ -127,8 +127,8 @@ lexgrid/
 
 ## Getting Help
 
-- Open a [GitHub Discussion](https://github.com/your-org/lexgrid/discussions)
-- Check existing [Issues](https://github.com/your-org/lexgrid/issues)
+- Open a [GitHub Discussion](https://github.com/srajasimman/lexgrid/discussions)
+- Check existing [Issues](https://github.com/srajasimman/lexgrid/issues)
 - Review [Documentation](docs/)
 
 ## Code of Conduct
