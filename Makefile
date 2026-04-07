@@ -94,4 +94,4 @@ db-migrate:
 	cd backend && alembic upgrade head
 
 purge-cache:
-	./scripts/purge_cache.sh --all
+	./scripts/purge_cache.sh --docker --all
