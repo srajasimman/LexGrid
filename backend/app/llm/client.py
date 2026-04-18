@@ -75,6 +75,30 @@ async def stream_answer(
     answer = "".join(full_answer)
     citations = _parse_citations(answer, chunks)
     yield {"type": "citations", "citations": [c.model_dump() for c in citations]}
+
+    # Generate a short session title from the Q&A
+    try:
+        title_response = await client.chat.completions.create(
+            model=settings.llm_model,
+            temperature=0.3,
+            messages=[
+                {
+                    "role": "user",
+                    "content": (
+                        "Generate a concise 4-6 word title for this legal Q&A session. "
+                        "Reply with only the title, no punctuation, no quotes.\n\n"
+                        f"Question: {query}\n"
+                        f"Answer summary: {answer[:300]}"
+                    ),
+                }
+            ],
+            max_tokens=20,
+        )
+        title = (title_response.choices[0].message.content or "").strip()
+    except Exception:
+        title = query[:60]
+
+    yield {"type": "title", "title": title}
     yield {"type": "done"}
 
 

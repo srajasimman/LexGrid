@@ -187,6 +187,14 @@ export function useChatStore(): ChatStore {
                 saveConversations(updated);
                 return updated;
               });
+            } else if (event.type === 'title') {
+              setConversations((prev) => {
+                const updated = prev.map((c) =>
+                  c.id === convId ? { ...c, title: event.title } : c,
+                );
+                saveConversations(updated);
+                return updated;
+              });
             }
           },
         );

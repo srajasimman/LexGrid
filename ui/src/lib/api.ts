@@ -79,6 +79,7 @@ export async function getHealth(): Promise<HealthStatus> {
 export type StreamEvent =
   | { type: 'token'; content: string }
   | { type: 'citations'; citations: Citation[] }
+  | { type: 'title'; title: string }
   | { type: 'done' };
 
 /**
