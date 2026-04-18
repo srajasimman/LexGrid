@@ -79,19 +79,19 @@ class Settings(BaseSettings):
         description="Number of texts per OpenAI embedding batch",
     )
     top_k_retrieval: int = Field(
-        default=10,
+        default=20,
         ge=1,
         le=50,
         description="Number of chunks to retrieve before re-ranking",
     )
     top_k_rerank: int = Field(
-        default=5,
+        default=8,
         ge=1,
         le=20,
         description="Number of chunks to pass to LLM after re-ranking",
     )
     context_max_tokens: int = Field(
-        default=4000,
+        default=6000,
         description="Maximum tokens in LLM context window",
     )
 
