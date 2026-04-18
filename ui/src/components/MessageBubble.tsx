@@ -29,7 +29,7 @@ export default function MessageBubble({ message }: Props) {
 
       <div className="flex-1 min-w-0">
         {/* Answer */}
-        <div className="bg-ivory border border-warm-sand rounded-[4px_16px_16px_16px] px-4 py-3 text-sm font-serif leading-[1.7] text-ink whitespace-pre-wrap">
+        <div className="bg-ivory border border-warm-sand rounded-[4px_16px_16px_16px] px-4 py-3 text-sm font-sans leading-[1.7] text-ink whitespace-pre-wrap">
           {message.content}
         </div>
 
