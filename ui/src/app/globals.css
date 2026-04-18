@@ -4,16 +4,9 @@
 
 :root {
   --legal-serif: 'Crimson Text', Georgia, Cambria, serif;
-  --background: #FAFAF7;
-  --foreground: #1A1A1A;
 }
 
+html,
 body {
-  background-color: var(--background);
-  color: var(--foreground);
-}
-
-/* Utility: apply legal serif to any block of legal text */
-.legal-text {
-  font-family: var(--legal-serif);
+  height: 100%;
 }
