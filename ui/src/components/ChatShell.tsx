@@ -15,6 +15,8 @@ export default function ChatShell() {
     selectConversation,
     setActFilter,
     sendMessage,
+    pinConversation,
+    deleteConversation,
   } = useChatStore();
 
   return (
@@ -26,6 +28,8 @@ export default function ChatShell() {
         onNewConversation={newConversation}
         onSelectConversation={selectConversation}
         onSetActFilter={setActFilter}
+        onPinConversation={pinConversation}
+        onDeleteConversation={deleteConversation}
       />
       <div className="flex-1 min-w-0">
         <ChatPanel

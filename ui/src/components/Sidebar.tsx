@@ -13,6 +13,8 @@ interface Props {
   onNewConversation: () => void;
   onSelectConversation: (id: string) => void;
   onSetActFilter: (code: string | null) => void;
+  onPinConversation: (id: string) => void;
+  onDeleteConversation: (id: string) => void;
 }
 
 export default function Sidebar({
@@ -22,6 +24,8 @@ export default function Sidebar({
   onNewConversation,
   onSelectConversation,
   onSetActFilter,
+  onPinConversation,
+  onDeleteConversation,
 }: Props) {
   function toggleAct(code: string) {
     onSetActFilter(actFilter === code ? null : code);
@@ -72,6 +76,8 @@ export default function Sidebar({
           conversations={conversations}
           activeId={activeId}
           onSelect={onSelectConversation}
+          onPin={onPinConversation}
+          onDelete={onDeleteConversation}
         />
       </div>
     </div>

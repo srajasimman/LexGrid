@@ -22,6 +22,7 @@ export interface StoredConversation {
   actFilter: string | null;
   createdAt: number;
   messages: StoredMessage[];
+  pinned?: boolean;
 }
 
 // ─── localStorage keys ────────────────────────────────────────────────────────
@@ -65,6 +66,8 @@ export interface ChatStore {
   selectConversation: (id: string) => void;
   setActFilter: (code: string | null) => void;
   sendMessage: (query: string) => Promise<void>;
+  pinConversation: (id: string) => void;
+  deleteConversation: (id: string) => void;
 }
 
 export function useChatStore(): ChatStore {
@@ -180,6 +183,29 @@ export function useChatStore(): ChatStore {
     [activeId, actFilter, conversations, isLoading],
   );
 
+  const pinConversation = useCallback((id: string) => {
+    setConversations((prev) => {
+      const updated = prev.map((c) => (c.id === id ? { ...c, pinned: !c.pinned } : c));
+      saveConversations(updated);
+      return updated;
+    });
+  }, []);
+
+  const deleteConversation = useCallback(
+    (id: string) => {
+      setConversations((prev) => {
+        const updated = prev.filter((c) => c.id !== id);
+        saveConversations(updated);
+        return updated;
+      });
+      if (activeId === id) {
+        setActiveId(null);
+        localStorage.removeItem(LS_ACTIVE);
+      }
+    },
+    [activeId],
+  );
+
   return {
     conversations,
     activeId,
@@ -190,5 +216,7 @@ export function useChatStore(): ChatStore {
     selectConversation,
     setActFilter,
     sendMessage,
+    pinConversation,
+    deleteConversation,
   };
 }
