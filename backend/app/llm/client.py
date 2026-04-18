@@ -40,6 +40,44 @@ def _parse_citations(
     return citations
 
 
+async def stream_answer(
+    query: str,
+    chunks: list[LegalChunk],
+    settings: Settings,
+):
+    """Stream LLM tokens as an async generator, then yield parsed citations.
+
+    Yields dicts:
+        {"type": "token", "content": "<text>"}   — one per streamed chunk
+        {"type": "citations", "citations": [...]} — after stream ends
+        {"type": "done"}                          — terminal event
+    """
+    client = AsyncOpenAI(api_key=settings.openai_api_key, base_url=settings.openai_base_url)
+    context = build_context(chunks)
+    messages = [
+        {"role": "system", "content": build_system_prompt()},
+        {"role": "user", "content": build_user_prompt(query, context)},
+    ]
+    stream = await client.chat.completions.create(
+        model=settings.llm_model,
+        temperature=settings.llm_temperature,
+        messages=messages,
+        max_tokens=settings.llm_max_tokens,
+        stream=True,
+    )
+    full_answer: list[str] = []
+    async for chunk in stream:
+        delta = chunk.choices[0].delta.content if chunk.choices else None
+        if delta:
+            full_answer.append(delta)
+            yield {"type": "token", "content": delta}
+
+    answer = "".join(full_answer)
+    citations = _parse_citations(answer, chunks)
+    yield {"type": "citations", "citations": [c.model_dump() for c in citations]}
+    yield {"type": "done"}
+
+
 async def generate_answer(
     query: str,
     chunks: list[LegalChunk],

@@ -1,7 +1,7 @@
 'use client';
 
 import { useState, useEffect, useCallback } from 'react';
-import { queryLegal } from '@/lib/api';
+import { streamQuery } from '@/lib/api';
 import type { Citation } from '@/lib/types';
 
 // ─── Data model ───────────────────────────────────────────────────────────────
@@ -144,39 +144,76 @@ export function useChatStore(): ChatStore {
       setConversations(updatedConversations);
       saveConversations(updatedConversations);
 
+      // Insert an empty assistant message placeholder to stream into
+      const assistantMsg: StoredMessage = {
+        role: 'assistant',
+        content: '',
+        timestamp: Date.now(),
+      };
+      updatedConversations = updatedConversations.map((c) =>
+        c.id === convId ? { ...c, messages: [...c.messages, assistantMsg] } : c,
+      );
+      setConversations(updatedConversations);
+
       try {
-        const response = await queryLegal({
-          query,
-          act_filter: actFilter ?? undefined,
-          top_k: 5,
-          use_cache: true,
-        });
-
-        const assistantMsg: StoredMessage = {
-          role: 'assistant',
-          content: response.answer,
-          citations: response.citations,
-          latency_ms: response.total_ms ?? response.latency_ms,
-          cache_hit: response.cache_hit,
-          chunks_retrieved: response.chunks_retrieved ?? response.retrieved_chunks.length,
-          timestamp: Date.now(),
-        };
-
-        updatedConversations = updatedConversations.map((c) =>
-          c.id === convId ? { ...c, messages: [...c.messages, assistantMsg] } : c,
+        await streamQuery(
+          { query, act_filter: actFilter ?? undefined, top_k: 5, use_cache: true },
+          (event) => {
+            if (event.type === 'token') {
+              // Append token to the last message in the active conversation
+              setConversations((prev) => {
+                const updated = prev.map((c) => {
+                  if (c.id !== convId) return c;
+                  const msgs = [...c.messages];
+                  const last = msgs[msgs.length - 1];
+                  msgs[msgs.length - 1] = { ...last, content: last.content + event.content };
+                  return { ...c, messages: msgs };
+                });
+                return updated;
+              });
+            } else if (event.type === 'citations') {
+              setConversations((prev) => {
+                const updated = prev.map((c) => {
+                  if (c.id !== convId) return c;
+                  const msgs = [...c.messages];
+                  const last = msgs[msgs.length - 1];
+                  msgs[msgs.length - 1] = {
+                    ...last,
+                    citations: event.citations as Citation[],
+                    latency_ms: Date.now() - assistantMsg.timestamp,
+                  };
+                  return { ...c, messages: msgs };
+                });
+                saveConversations(updated);
+                return updated;
+              });
+            }
+          },
         );
       } catch (err) {
-        const errorMsg: StoredMessage = {
-          role: 'assistant',
-          content: `Sorry, something went wrong. ${err instanceof Error ? err.message : 'Please try again.'}`,
-          timestamp: Date.now(),
-        };
-        updatedConversations = updatedConversations.map((c) =>
-          c.id === convId ? { ...c, messages: [...c.messages, errorMsg] } : c,
-        );
+        setConversations((prev) => {
+          const updated = prev.map((c) => {
+            if (c.id !== convId) return c;
+            const msgs = [...c.messages];
+            const last = msgs[msgs.length - 1];
+            // If streaming failed with no content yet, replace placeholder with error
+            if (!last.content) {
+              msgs[msgs.length - 1] = {
+                ...last,
+                content: `Sorry, something went wrong. ${err instanceof Error ? err.message : 'Please try again.'}`,
+              };
+            }
+            return { ...c, messages: msgs };
+          });
+          saveConversations(updated);
+          return updated;
+        });
       } finally {
-        setConversations(updatedConversations);
-        saveConversations(updatedConversations);
+        // Persist final state and release loading lock
+        setConversations((prev) => {
+          saveConversations(prev);
+          return prev;
+        });
         setIsLoading(false);
       }
     },
