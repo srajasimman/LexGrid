@@ -42,7 +42,11 @@ function loadConversations(): StoredConversation[] {
 }
 
 function saveConversations(conversations: StoredConversation[]): void {
-  localStorage.setItem(LS_CONVERSATIONS, JSON.stringify(conversations));
+  try {
+    localStorage.setItem(LS_CONVERSATIONS, JSON.stringify(conversations));
+  } catch {
+    // QuotaExceededError — silently tolerate; in-memory state is still correct
+  }
 }
 
 function generateId(): string {
@@ -99,6 +103,7 @@ export function useChatStore(): ChatStore {
 
   const sendMessage = useCallback(
     async (query: string) => {
+      if (isLoading) return;
       setIsLoading(true);
 
       // Build or retrieve the active conversation
@@ -168,7 +173,7 @@ export function useChatStore(): ChatStore {
         setIsLoading(false);
       }
     },
-    [activeId, actFilter, conversations],
+    [activeId, actFilter, conversations, isLoading],
   );
 
   return {
