@@ -8,7 +8,7 @@ import type { StoredConversation } from '@/lib/chatStore';
 interface Props {
   conversation: StoredConversation | null;
   isLoading: boolean;
-  onSend: (query: string) => void;
+  onSend: (query: string) => Promise<void>;
 }
 
 export default function ChatPanel({ conversation, isLoading, onSend }: Props) {

@@ -101,6 +101,10 @@ export function useChatStore(): ChatStore {
     }
   }, []);
 
+  // NOTE: sendMessage captures the `conversations` snapshot at call time.
+  // The isLoading guard prevents re-entry from the UI, but programmatic
+  // rapid-fire calls could corrupt state. Full fix requires functional
+  // updater form in setConversations — tracked as a follow-up.
   const sendMessage = useCallback(
     async (query: string) => {
       if (isLoading) return;
