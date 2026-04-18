@@ -1,5 +1,5 @@
 name: lexgrid
-# LexGrid infrastructure: postgres+pgvector, redis, backend, celery-worker, ui, caddy
+# LexGrid infrastructure: postgres+pgvector, redis, backend, celery-worker, ui
 # Usage: cd infra && docker compose up -d
 
 # Common environment variables for backend and celery-worker
@@ -9,25 +9,6 @@ x-common-environment: &common-env
   CELERY_BROKER_URL: redis://redis:6379/1
   CELERY_RESULT_BACKEND: redis://redis:6379/2
   LEGAL_ACTS_DIR: /app/legal-acts
-
-configs:
-  # Caddyfile configuration for reverse proxying API and UI
-  caddyfile:
-    content: |
-      ${DOMAIN} {
-          handle /api/* {
-              uri strip_prefix /api
-              reverse_proxy backend:8000
-          }
-          handle {
-              reverse_proxy ui:3000
-          }
-          log {
-              output stderr
-              format console
-              level INFO
-          }
-      }
 
 services:
   postgres:
@@ -62,24 +43,6 @@ services:
       timeout: 3s
       retries: 3
 
-  caddy:
-    image: caddy:2-alpine
-    container_name: lexgrid-caddy
-    ports:
-      - "80:80"
-      - "443:443"
-      - "443:443/udp"
-    configs:
-      - source: caddyfile
-        target: /etc/caddy/Caddyfile
-    volumes:
-      - caddy_data:/data
-      - caddy_config:/config
-    depends_on:
-      - backend
-      - ui
-    restart: unless-stopped
-
   backend:
     build:
       context: ..
@@ -91,8 +54,8 @@ services:
       <<: *common-env
     volumes:
       - ../legal-acts:/app/legal-acts:ro
-    expose:
-      - "8000"
+    ports:
+      - "8000:8000"
     depends_on:
       postgres:
         condition: service_healthy
@@ -129,15 +92,13 @@ services:
       dockerfile: Dockerfile
     container_name: lexgrid-ui
     environment:
-      NEXT_PUBLIC_API_URL: https://${DOMAIN}/api
+      NEXT_PUBLIC_API_URL: http://localhost:8000
       BACKEND_URL: http://backend:8000
-    expose:
-      - "3000"
+    ports:
+      - "3000:3000"
     depends_on:
       - backend
 
 volumes:
   postgres_data:
   redis_data:
-  caddy_data:
-  caddy_config:
