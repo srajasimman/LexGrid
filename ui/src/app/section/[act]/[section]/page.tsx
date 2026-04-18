@@ -31,24 +31,40 @@ export default async function SectionPage({ params }: PageProps) {
   const normalizedSectionLabel = normalizeSectionRouteParam(section) || result.section_number;
 
   return (
-    <main className="min-h-screen bg-parchment">
-      <header className="border-b border-gray-200 bg-white px-4 py-5 sm:px-8">
-        <a href="/" className="text-xl font-sans font-bold text-amber-800 tracking-tight">
-          LexGrid
-        </a>
-      </header>
-
-      <div className="max-w-3xl mx-auto px-4 py-10 sm:px-8 space-y-4">
-        <nav className="text-xs font-sans text-gray-400">
-          <a href="/" className="hover:text-amber-800">Home</a>
-          <span className="mx-1">›</span>
-          <span className="uppercase">{normalizedActLabel}</span>
-          <span className="mx-1">›</span>
-          <span>Section {normalizedSectionLabel}</span>
+    <div className="flex h-screen bg-dark-surface text-warm-silver font-sans overflow-hidden">
+      {/* Sidebar strip — matches app shell */}
+      <aside className="w-[220px] shrink-0 bg-dark-surface border-r border-dark-border flex flex-col">
+        <div className="px-4 py-5 border-b border-dark-border">
+          <a href="/" className="text-base font-bold text-ivory tracking-tight hover:text-terracotta transition-colors">
+            LexGrid
+          </a>
+          <p className="text-[10px] text-stone-gray mt-0.5 uppercase tracking-widest">Legal Research</p>
+        </div>
+        <nav className="flex-1 px-3 py-4">
+          <a
+            href="/"
+            className="flex items-center gap-2 px-3 py-2 rounded-lg text-sm text-warm-silver hover:bg-dark-elevated hover:text-ivory transition-colors"
+          >
+            ← Back to Chat
+          </a>
         </nav>
+      </aside>
 
-        <SectionViewer section={result} />
-      </div>
-    </main>
+      {/* Main content */}
+      <main className="flex-1 overflow-y-auto bg-parchment">
+        <div className="max-w-3xl mx-auto px-6 py-10 space-y-4">
+          {/* Breadcrumb */}
+          <nav className="text-xs font-sans text-olive-gray">
+            <a href="/" className="hover:text-terracotta transition-colors">Home</a>
+            <span className="mx-1">›</span>
+            <span className="uppercase">{normalizedActLabel}</span>
+            <span className="mx-1">›</span>
+            <span>Section {normalizedSectionLabel}</span>
+          </nav>
+
+          <SectionViewer section={result} />
+        </div>
+      </main>
+    </div>
   );
 }
