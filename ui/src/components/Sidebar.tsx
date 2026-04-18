@@ -1,5 +1,6 @@
 'use client';
 
+import { Plus } from 'lucide-react';
 import ConversationList from '@/components/ConversationList';
 import type { StoredConversation } from '@/lib/chatStore';
 
@@ -40,7 +41,7 @@ export default function Sidebar({
           onClick={onNewConversation}
           className="w-full flex items-center gap-2 bg-dark-surface border border-dark-border rounded-lg px-3 py-2 text-warm-silver text-xs font-sans hover:bg-dark-elevated transition-colors"
         >
-          <span className="text-base leading-none">＋</span>
+          <Plus className="w-4 h-4" />
           New conversation
         </button>
       </div>

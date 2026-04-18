@@ -11,9 +11,11 @@ interface Props {
 function dateLabel(ts: number): string {
   const d = new Date(ts);
   const now = new Date();
-  const diffDays = Math.floor((now.getTime() - d.getTime()) / 86_400_000);
-  if (diffDays === 0) return 'TODAY';
-  if (diffDays === 1) return 'YESTERDAY';
+  const dStr = d.toDateString();
+  const yesterday = new Date(now);
+  yesterday.setDate(now.getDate() - 1);
+  if (dStr === now.toDateString()) return 'TODAY';
+  if (dStr === yesterday.toDateString()) return 'YESTERDAY';
   return d.toLocaleDateString('en-IN', { day: 'numeric', month: 'short', year: 'numeric' }).toUpperCase();
 }
 
@@ -49,6 +51,7 @@ export default function ConversationList({ conversations, activeId, onSelect }: 
               <button
                 key={conv.id}
                 onClick={() => onSelect(conv.id)}
+                aria-current={isActive ? 'true' : undefined}
                 className={`w-full text-left px-3 py-2 rounded-md transition-colors ${
                   isActive
                     ? 'bg-dark-elevated text-ivory'
