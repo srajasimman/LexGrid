@@ -30,8 +30,8 @@ export default function RootLayout({
   children,
 }: Readonly<{ children: React.ReactNode }>) {
   return (
-    <html lang="en" className={`${inter.variable} ${crimsonText.variable}`}>
-      <body className="font-sans antialiased bg-parchment text-ink min-h-screen">
+    <html lang="en" className={`${inter.variable} ${crimsonText.variable} h-full`}>
+      <body className="font-sans antialiased bg-parchment text-ink h-full">
         <ReactQueryProvider>{children}</ReactQueryProvider>
       </body>
     </html>

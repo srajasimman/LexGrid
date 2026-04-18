@@ -20,10 +20,10 @@ export default function SectionViewer({ section }: Props) {
   const isLong = section.content.length > PREVIEW_LENGTH;
 
   return (
-    <article className="bg-white border border-gray-200 rounded-xl overflow-hidden shadow-sm">
+    <article className="bg-ivory border border-warm-sand rounded-xl overflow-hidden shadow-sm">
       {/* Header */}
-      <header className="px-5 py-4 bg-amber-50 border-b border-amber-100">
-        <p className="text-xs font-sans font-semibold text-amber-700 uppercase tracking-wide">
+      <header className="px-5 py-4 bg-warm-sand/40 border-b border-warm-sand">
+        <p className="text-xs font-sans font-semibold text-terracotta uppercase tracking-wide">
           {section.act_name}{section.act_year ? ` ${section.act_year}` : ''}
           {section.chapter_title && ` — ${section.chapter_title}`}
         </p>
@@ -35,7 +35,7 @@ export default function SectionViewer({ section }: Props) {
 
       {/* Body */}
       <div className="px-5 py-4">
-        <p className="font-serif leading-relaxed text-ink">
+        <p className="font-sans leading-[1.7] text-ink">
           {expanded || !isLong
             ? section.content
             : `${section.content.slice(0, PREVIEW_LENGTH)}…`}
@@ -45,7 +45,7 @@ export default function SectionViewer({ section }: Props) {
           {isLong && (
             <button
               onClick={() => setExpanded((v) => !v)}
-              className="flex items-center gap-1 text-sm text-amber-800 hover:text-amber-900 font-sans"
+              className="flex items-center gap-1 text-sm text-terracotta hover:text-terracotta/80 font-sans transition-colors"
             >
               {expanded ? <ChevronUp className="w-4 h-4" /> : <ChevronDown className="w-4 h-4" />}
               {expanded ? 'Collapse' : 'Read full section'}
@@ -56,7 +56,7 @@ export default function SectionViewer({ section }: Props) {
               href={section.source_url}
               target="_blank"
               rel="noopener noreferrer"
-              className="flex items-center gap-1 text-xs text-gray-400 hover:text-gray-600 font-sans ml-auto"
+              className="flex items-center gap-1 text-xs text-stone-gray hover:text-olive-gray font-sans ml-auto transition-colors"
             >
               <ExternalLink className="w-3 h-3" />
               Source

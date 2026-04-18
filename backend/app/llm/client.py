@@ -23,21 +23,96 @@ def _parse_citations(
     chunks: list[LegalChunk],
 ) -> list[Citation]:
     """Extract Citation objects from LLM answer text."""
+    seen: set[tuple[str, str]] = set()
     citations: list[Citation] = []
     for match in _CITATION_RE.finditer(text):
         section_num, act_name_raw = match.group(1), match.group(2).strip()
-        # Find matching chunk to populate act_code + source_url
-        matched = next((c for c in chunks if c.section_number == section_num), None)
+        act_name_lower = act_name_raw.lower()
+        # Prefer a chunk that matches both section number AND act name
+        matched = next(
+            (c for c in chunks if c.section_number == section_num and act_name_lower in c.act_name.lower()),
+            None,
+        ) or next((c for c in chunks if c.section_number == section_num), None)
+        act_code = matched.act_code if matched else None
+        # Skip citations we cannot resolve to a known act
+        if not act_code:
+            continue
+        key = (act_code, section_num)
+        if key in seen:
+            continue
+        seen.add(key)
         citations.append(
             Citation(
-                act_code=matched.act_code if matched else "unknown",
-                act_name=act_name_raw,
+                act_code=act_code,
+                act_name=matched.act_name if matched else act_name_raw,
                 section_number=section_num,
                 section_title=matched.section_title if matched else None,
                 source_url=matched.source_url if matched else None,
             )
         )
     return citations
+
+
+async def stream_answer(
+    query: str,
+    chunks: list[LegalChunk],
+    settings: Settings,
+):
+    """Stream LLM tokens as an async generator, then yield parsed citations.
+
+    Yields dicts:
+        {"type": "token", "content": "<text>"}   — one per streamed chunk
+        {"type": "citations", "citations": [...]} — after stream ends
+        {"type": "done"}                          — terminal event
+    """
+    client = AsyncOpenAI(api_key=settings.openai_api_key, base_url=settings.openai_base_url)
+    context = build_context(chunks)
+    messages = [
+        {"role": "system", "content": build_system_prompt()},
+        {"role": "user", "content": build_user_prompt(query, context)},
+    ]
+    stream = await client.chat.completions.create(
+        model=settings.llm_model,
+        temperature=settings.llm_temperature,
+        messages=messages,
+        max_tokens=settings.llm_max_tokens,
+        stream=True,
+    )
+    full_answer: list[str] = []
+    async for chunk in stream:
+        delta = chunk.choices[0].delta.content if chunk.choices else None
+        if delta:
+            full_answer.append(delta)
+            yield {"type": "token", "content": delta}
+
+    answer = "".join(full_answer)
+    citations = _parse_citations(answer, chunks)
+    yield {"type": "citations", "citations": [c.model_dump() for c in citations]}
+
+    # Generate a short session title from the Q&A
+    try:
+        title_response = await client.chat.completions.create(
+            model=settings.llm_model,
+            temperature=0.3,
+            messages=[
+                {
+                    "role": "user",
+                    "content": (
+                        "Generate a concise 4-6 word title for this legal Q&A session. "
+                        "Reply with only the title, no punctuation, no quotes.\n\n"
+                        f"Question: {query}\n"
+                        f"Answer summary: {answer[:300]}"
+                    ),
+                }
+            ],
+            max_tokens=20,
+        )
+        title = (title_response.choices[0].message.content or "").strip()
+    except Exception:
+        title = query[:60]
+
+    yield {"type": "title", "title": title}
+    yield {"type": "done"}
 
 
 async def generate_answer(
