@@ -46,6 +46,7 @@ export default function ChatInput({ onSubmit, isLoading }: Props) {
           onKeyDown={handleKeyDown}
           placeholder="Ask a legal question…"
           rows={1}
+          aria-label="Legal question"
           className="flex-1 bg-transparent border-none outline-none resize-none font-serif text-sm text-ink placeholder:text-stone-gray leading-relaxed max-h-40"
         />
         <button

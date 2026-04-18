@@ -19,7 +19,7 @@ export default function MessageThread({ messages, isLoading }: Props) {
   return (
     <div className="flex-1 overflow-y-auto px-6 py-6 flex flex-col gap-5">
       {messages.map((msg, i) => (
-        <MessageBubble key={i} message={msg} />
+        <MessageBubble key={`${msg.timestamp}-${msg.role}`} message={msg} />
       ))}
 
       {isLoading && (

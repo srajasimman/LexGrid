@@ -34,14 +34,14 @@ export default function MessageBubble({ message }: Props) {
         </div>
 
         {/* Citations + perf chip */}
-        {(message.citations && message.citations.length > 0) || message.latency_ms ? (
+        {(message.citations && message.citations.length > 0) || message.latency_ms != null ? (
           <div className="mt-2 flex flex-wrap items-center gap-2">
             {message.citations?.map((c, i) => (
               <CitationBadge key={`${c.act_code}-${c.section_number}-${i}`} citation={c} />
             ))}
             {message.latency_ms != null && (
               <span className="text-stone-gray font-sans text-xs">
-                {message.chunks_retrieved} sections
+                {message.chunks_retrieved ?? '?'} sections
                 {message.latency_ms > 0 && ` · ${message.latency_ms.toFixed(0)}ms`}
                 {message.cache_hit && ' · ⚡ cached'}
               </span>
