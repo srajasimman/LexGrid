@@ -23,15 +23,28 @@ def _parse_citations(
     chunks: list[LegalChunk],
 ) -> list[Citation]:
     """Extract Citation objects from LLM answer text."""
+    seen: set[tuple[str, str]] = set()
     citations: list[Citation] = []
     for match in _CITATION_RE.finditer(text):
         section_num, act_name_raw = match.group(1), match.group(2).strip()
-        # Find matching chunk to populate act_code + source_url
-        matched = next((c for c in chunks if c.section_number == section_num), None)
+        act_name_lower = act_name_raw.lower()
+        # Prefer a chunk that matches both section number AND act name
+        matched = next(
+            (c for c in chunks if c.section_number == section_num and act_name_lower in c.act_name.lower()),
+            None,
+        ) or next((c for c in chunks if c.section_number == section_num), None)
+        act_code = matched.act_code if matched else None
+        # Skip citations we cannot resolve to a known act
+        if not act_code:
+            continue
+        key = (act_code, section_num)
+        if key in seen:
+            continue
+        seen.add(key)
         citations.append(
             Citation(
-                act_code=matched.act_code if matched else "unknown",
-                act_name=act_name_raw,
+                act_code=act_code,
+                act_name=matched.act_name if matched else act_name_raw,
                 section_number=section_num,
                 section_title=matched.section_title if matched else None,
                 source_url=matched.source_url if matched else None,
