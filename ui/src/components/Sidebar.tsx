@@ -1,6 +1,6 @@
 'use client';
 
-import { Plus } from 'lucide-react';
+import { Plus, X } from 'lucide-react';
 import ConversationList from '@/components/ConversationList';
 import type { StoredConversation } from '@/lib/chatStore';
 
@@ -15,6 +15,7 @@ interface Props {
   onSetActFilter: (code: string | null) => void;
   onPinConversation: (id: string) => void;
   onDeleteConversation: (id: string) => void;
+  onClose?: () => void;
 }
 
 export default function Sidebar({
@@ -26,6 +27,7 @@ export default function Sidebar({
   onSetActFilter,
   onPinConversation,
   onDeleteConversation,
+  onClose,
 }: Props) {
   function toggleAct(code: string) {
     onSetActFilter(actFilter === code ? null : code);
@@ -33,10 +35,21 @@ export default function Sidebar({
 
   return (
     <div className="w-[220px] flex-shrink-0 bg-ink flex flex-col h-full">
-      {/* Logo */}
-      <div className="px-4 py-4 border-b border-dark-surface flex-shrink-0">
-        <p className="font-serif text-[15px] font-medium text-ivory">LexGrid</p>
-        <p className="font-sans text-[11px] text-olive-gray mt-0.5">Indian Legal Research</p>
+      {/* Logo + close button (close only shown on mobile) */}
+      <div className="px-4 py-4 border-b border-dark-surface flex-shrink-0 flex items-start justify-between">
+        <div>
+          <p className="font-serif text-[15px] font-medium text-ivory">LexGrid</p>
+          <p className="font-sans text-[11px] text-olive-gray mt-0.5">Indian Legal Research</p>
+        </div>
+        {onClose && (
+          <button
+            onClick={onClose}
+            className="md:hidden w-8 h-8 flex items-center justify-center text-olive-gray hover:text-warm-silver transition-colors"
+            aria-label="Close menu"
+          >
+            <X className="w-4 h-4" />
+          </button>
+        )}
       </div>
 
       {/* New conversation */}
