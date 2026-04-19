@@ -35,6 +35,8 @@ A production-grade Retrieval-Augmented Generation (RAG) system for 🇮🇳 Indi
 - **Async Ingestion** — Celery workers with Redis broker handle embedding + upsert in the background, enabling non-blocking ingestion of entire acts
 - **Evaluation Suite** — 12 test cases covering direct lookup, comparative, procedural, and negative query types with P@K, Recall@K, MRR, and Legal Accuracy metrics
 - **9 Indian Acts** — BNS, CPC, CrPC, HMA, IDA, IEA, IPC, MVA, NIA (~2,284 sections indexed)
+- **Mobile-Responsive UI** — Hamburger + slide-in sidebar on mobile, full-width chat panel, pinned header and input, works on all screen sizes
+- **Markdown Rendering** — Assistant responses rendered as formatted Markdown (headings, bold, lists, inline code) in both desktop and mobile browsers
 
 ---
 
@@ -49,7 +51,7 @@ A production-grade Retrieval-Augmented Generation (RAG) system for 🇮🇳 Indi
 | **Full-Text Search** | PostgreSQL tsvector/tsquery (GENERATED ALWAYS, GIN index) |
 | **Cache** | Redis 7 (query cache TTL 3600s) |
 | **Task Queue** | Celery 5 + Redis broker (concurrency=4) |
-| **UI** | Next.js + Tailwind CSS |
+| **UI** | Next.js 14 (App Router) + Tailwind CSS + `react-markdown` |
 | **ORM** | SQLAlchemy async (asyncpg driver) |
 | **Config** | pydantic-settings (all env-var driven) |
 | **Logging** | structlog (structured JSON logs) |
@@ -194,7 +196,15 @@ Expected response:
 
 ### 6. Open the UI
 
-Navigate to [http://localhost:3000](http://localhost:3000) for the Next.js query interface.
+Navigate to [http://localhost:3000](http://localhost:3000) for the Next.js chat interface.
+
+**UI features:**
+- Chat with the RAG system — ask questions in plain English and get cited answers
+- Conversation history — conversations are stored locally and listed in the sidebar
+- Act filter — filter conversations by act code (BNS, IPC, CrPC, etc.)
+- Pin / delete conversations
+- **Mobile responsive** — hamburger menu + slide-in sidebar on screens < 768px
+- **Markdown rendering** — assistant responses render formatted text (bold, lists, headings, code)
 
 API auto-docs (Swagger): [http://localhost:8000/docs](http://localhost:8000/docs)
 
@@ -287,7 +297,18 @@ lexgrid/
 │   ├── ingest.py                    # CLI: dispatch Celery ingestion tasks
 │   └── evaluate.py                  # CLI: run evaluation suite → JSON report
 ├── legal-acts/                      # Raw JSON source data (per act)
-├── frontend/                        # Next.js + Tailwind UI
+├── ui/                              # Next.js 14 + Tailwind CSS chat interface
+│   ├── src/
+│   │   ├── app/                     # Next.js App Router pages + layout
+│   │   └── components/
+│   │       ├── ChatShell.tsx        # Root shell: sidebar state, mobile layout
+│   │       ├── MobileHeader.tsx     # Hamburger + title + new-chat (mobile-only)
+│   │       ├── Sidebar.tsx          # Conversation list, act filters, close button
+│   │       ├── ChatPanel.tsx        # Message thread + input area
+│   │       ├── MessageBubble.tsx    # Per-message bubble with Markdown rendering
+│   │       └── ...
+│   ├── Dockerfile                   # Multi-stage: deps → build → runner (node:20-alpine)
+│   └── .dockerignore
 └── docs/
     ├── architecture.md              # System design deep-dive
     ├── developer-guide.md           # Local dev, conventions, adding acts

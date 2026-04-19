@@ -145,6 +145,53 @@ NEXT_PUBLIC_API_URL=http://localhost:8000
 BACKEND_URL=http://localhost:8000
 ```
 
+### UI Tech Stack
+
+| Package | Purpose |
+|---|---|
+| Next.js 14 (App Router) | Framework, routing, SSR |
+| Tailwind CSS | Utility-first styling |
+| `@tailwindcss/typography` | `prose` classes for Markdown formatting |
+| `react-markdown` | Renders assistant responses as Markdown |
+| `lucide-react` | Icons (Menu, Plus, X, Send, etc.) |
+| `zustand` (via `chatStore`) | Local conversation state |
+| `@tanstack/react-query` | Server state / API calls |
+
+### UI Component Overview
+
+| Component | Responsibility |
+|---|---|
+| `ChatShell` | Root layout: `isSidebarOpen` state, backdrop, mobile wiring |
+| `MobileHeader` | Hamburger + title + new-chat button — visible only on mobile (`flex md:hidden`) |
+| `Sidebar` | Conversation list, act filter pills, ✕ close button (mobile-only) |
+| `ChatPanel` | Message thread + chat input; header hidden on mobile (`hidden md:flex`) |
+| `MessageBubble` | Per-message bubble — Markdown rendering for assistant, ⚖️ avatar on desktop |
+| `MessageThread` | Scrollable message list with auto-scroll to bottom |
+| `ChatInput` | Auto-resizing textarea, send on Enter |
+| `EmptyState` | Shown when no conversation is active |
+| `CitationBadge` | `[Section X, Act Name]` clickable citation chips |
+
+### Mobile Responsive Behaviour
+
+The UI is responsive using Tailwind breakpoints — no user-agent detection, no separate pages.
+
+| Viewport | Layout |
+|---|---|
+| Mobile (< 768px) | `MobileHeader` visible, sidebar hidden by default, slides in from left on hamburger tap, dimmed backdrop closes it |
+| Desktop (≥ 768px) | Sidebar static 220px column, `MobileHeader` hidden, `ChatPanel` header visible |
+
+### Building the Docker Image
+
+```bash
+# From repo root
+docker build -f ui/Dockerfile ui/
+
+# Or via docker compose
+docker compose -f infra/docker-compose.yml build ui
+```
+
+The `ui/Dockerfile` uses a three-stage build (deps → builder → runner) with `node:20-alpine`. A `ui/.dockerignore` excludes local `node_modules` and `.next` to prevent macOS binaries from leaking into the Linux image. `npm ci` is used (not `npm install`) for reproducible installs.
+
 ---
 
 ## 5. Running with Docker Compose
@@ -372,6 +419,12 @@ LexGrid/
 │   └── Dockerfile                     # python:3.12-slim
 ├── ui/
 │   ├── src/
+│   │   ├── app/                     # Next.js App Router (layout, page, section viewer)
+│   │   ├── components/              # React components (ChatShell, Sidebar, MobileHeader, …)
+│   │   └── lib/                     # chatStore (zustand), api client, types
+│   ├── Dockerfile                   # Multi-stage build: deps → builder → runner
+│   ├── .dockerignore                # Excludes node_modules + .next from Docker context
+│   ├── tailwind.config.ts           # Tailwind config (custom tokens + typography plugin)
 │   └── package.json
 ├── infra/
 │   ├── docker-compose.yml             # 5 services: postgres, redis, backend, celery-worker, ui
