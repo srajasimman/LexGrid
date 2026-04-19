@@ -18,7 +18,7 @@ export default function ChatPanel({ conversation, isLoading, onSend }: Props) {
   return (
     <div className="flex flex-col h-full bg-parchment">
       {/* Header */}
-      <div className="flex items-center justify-between px-5 py-3.5 bg-ivory border-b border-warm-sand flex-shrink-0">
+      <div className="hidden md:flex items-center justify-between px-5 py-3.5 bg-ivory border-b border-warm-sand flex-shrink-0">
         <div className="flex items-center gap-2 min-w-0">
           <span className="font-sans font-medium text-sm text-ink truncate">
             {conversation?.title ?? 'LexGrid'}
