@@ -24,7 +24,7 @@ export default function MessageBubble({ message }: Props) {
   return (
     <div className="flex gap-3 items-start">
       {/* Avatar */}
-      <div className="w-7 h-7 rounded-full bg-ink flex items-center justify-center flex-shrink-0 mt-0.5">
+      <div className="hidden md:flex w-7 h-7 rounded-full bg-ink items-center justify-center flex-shrink-0 mt-0.5">
         <span className="text-xs">⚖️</span>
       </div>
 
