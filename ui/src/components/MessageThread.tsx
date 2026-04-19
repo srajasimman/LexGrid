@@ -18,14 +18,14 @@ export default function MessageThread({ messages, isLoading }: Props) {
 
   return (
     <div className="flex-1 overflow-y-auto px-6 py-6 flex flex-col gap-5">
-      {messages.map((msg, i) => (
+      {messages.map((msg) => (
         <MessageBubble key={`${msg.timestamp}-${msg.role}`} message={msg} />
       ))}
 
       {isLoading && (
         <div className="flex gap-3 items-start">
-          <div className="w-7 h-7 rounded-full bg-ink flex items-center justify-center flex-shrink-0 mt-0.5">
-            <span className="text-terracotta text-xs font-semibold font-sans">L</span>
+          <div className="hidden md:flex w-7 h-7 rounded-full bg-ink items-center justify-center flex-shrink-0 mt-0.5">
+            <span className="text-xs">⚖️</span>
           </div>
           <div className="bg-ivory border border-warm-sand rounded-[4px_16px_16px_16px] px-4 py-3">
             <div className="flex gap-1 items-center">
