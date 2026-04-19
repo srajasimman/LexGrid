@@ -66,7 +66,7 @@ export default function ChatShell() {
       </div>
 
       {/* Main area */}
-      <div className="flex-1 min-w-0 flex flex-col">
+      <div className="flex-1 min-w-0 flex flex-col overflow-hidden">
         <MobileHeader
           title={activeConversation?.title ?? ''}
           onOpenSidebar={() => setIsSidebarOpen(true)}
