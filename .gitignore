@@ -78,4 +78,4 @@ coverage/
 # Misc
 *.bak
 *.tmp
-*.cache
+*.cache.worktrees/
