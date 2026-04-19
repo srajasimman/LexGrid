@@ -6,7 +6,7 @@ WORKDIR /app
 
 # Install dependencies separately for better layer caching
 COPY package*.json ./
-RUN npm install
+RUN npm ci
 
 # ─── Build stage ──────────────────────────────────────────────────────────────
 FROM node:20-alpine AS builder
