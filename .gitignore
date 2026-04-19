@@ -28,7 +28,7 @@ yarn-error.log*
 .yarn-integrity
 .next/
 out/
-.next-env.d.ts
+next-env.d.ts
 
 # Build outputs
 *.tsbuildinfo
@@ -78,4 +78,4 @@ coverage/
 # Misc
 *.bak
 *.tmp
-*.cache.worktrees/
+*.cache
